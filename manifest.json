@@ -1,0 +1,19 @@
+{
+  "name": "WordCards",
+  "short_name": "WordCards",
+  "description": "Spanish (Spain) to English swipe cards with spaced repetition.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7e8",
+  "theme_color": "#ff6b35",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+id,spanish,english,type
+w_0001,oficina,office,word
+w_0002,trabajo,work,word
+w_0003,reunion,meeting,word
+w_0004,equipo,team,word
+w_0005,proyecto,project,word
+w_0006,tarea,task,word
+w_0007,plazo,deadline,word
+w_0008,correo,email,word
+w_0009,mensaje,message,word
+w_0010,llamada,call,word
+w_0011,cliente,client,word
+w_0012,proveedor,supplier,word
+w_0013,jefe,boss,word
+w_0014,compañero,coworker,word
+w_0015,empleado,employee,word
+w_0016,documento,document,word
+w_0017,informe,report,word
+w_0018,presentacion,presentation,word
+w_0019,agenda,calendar,word
+w_0020,horario,schedule,word
+w_0021,objetivo,goal,word
+w_0022,resultado,result,word
+w_0023,problema,problem,word
+w_0024,solucion,solution,word
+w_0025,idea,idea,word
+w_0026,presupuesto,budget,word
+w_0027,contrato,contract,word
+w_0028,factura,invoice,word
+w_0029,pago,payment,word
+w_0030,venta,sale,word
+w_0031,compra,purchase,word
+w_0032,clase,class,word
+w_0033,escuela,school,word
+w_0034,universidad,university,word
+w_0035,examen,exam,word
+w_0036,deberes,homework,word
+w_0037,estudio,study,word
+w_0038,nota,grade,word
+w_0039,pregunta,question,word
+w_0040,respuesta,answer,word
+w_0041,ordenador,computer,word
+w_0042,teclado,keyboard,word
+w_0043,pantalla,screen,word
+w_0044,archivo,file,word
+w_0045,carpeta,folder,word
+w_0046,impresora,printer,word
+w_0047,internet,internet,word
+w_0048,contraseña,password,word
+w_0049,formacion,training,word
+w_0050,descanso,break,word
+w_0051,necesito la reunion,I need the meeting,phrase
+w_0052,necesito el proyecto,I need the project,phrase
+w_0053,necesito el informe,I need the report,phrase
+w_0054,necesito la presentacion,I need the presentation,phrase
+w_0055,necesito el correo,I need the email,phrase
+w_0056,necesito la llamada,I need the call,phrase
+w_0057,necesito la tarea,I need the task,phrase
+w_0058,necesito el examen,I need the exam,phrase
+w_0059,necesito los deberes,I need the homework,phrase
+w_0060,necesito el documento,I need the document,phrase
+w_0061,necesito la agenda,I need the calendar,phrase
+w_0062,necesito el archivo,I need the file,phrase
+w_0063,necesito el presupuesto,I need the budget,phrase
+w_0064,necesito el contrato,I need the contract,phrase
+w_0065,necesito la factura,I need the invoice,phrase
+w_0066,termino la reunion,I finish the meeting,phrase
+w_0067,termino el proyecto,I finish the project,phrase
+w_0068,termino el informe,I finish the report,phrase
+w_0069,termino la presentacion,I finish the presentation,phrase
+w_0070,termino el correo,I finish the email,phrase
+w_0071,termino la llamada,I finish the call,phrase
+w_0072,termino la tarea,I finish the task,phrase
+w_0073,termino el examen,I finish the exam,phrase
+w_0074,termino los deberes,I finish the homework,phrase
+w_0075,termino el documento,I finish the document,phrase
+w_0076,termino la agenda,I finish the calendar,phrase
+w_0077,termino el archivo,I finish the file,phrase
+w_0078,termino el presupuesto,I finish the budget,phrase
+w_0079,termino el contrato,I finish the contract,phrase
+w_0080,termino la factura,I finish the invoice,phrase
+w_0081,empiezo la reunion,I start the meeting,phrase
+w_0082,empiezo el proyecto,I start the project,phrase
+w_0083,empiezo el informe,I start the report,phrase
+w_0084,empiezo la presentacion,I start the presentation,phrase
+w_0085,empiezo el correo,I start the email,phrase
+w_0086,empiezo la llamada,I start the call,phrase
+w_0087,empiezo la tarea,I start the task,phrase
+w_0088,empiezo el examen,I start the exam,phrase
+w_0089,empiezo los deberes,I start the homework,phrase
+w_0090,empiezo el documento,I start the document,phrase
+w_0091,empiezo la agenda,I start the calendar,phrase
+w_0092,empiezo el archivo,I start the file,phrase
+w_0093,empiezo el presupuesto,I start the budget,phrase
+w_0094,empiezo el contrato,I start the contract,phrase
+w_0095,empiezo la factura,I start the invoice,phrase
+w_0096,reviso la reunion,I review the meeting,phrase
+w_0097,reviso el proyecto,I review the project,phrase
+w_0098,reviso el informe,I review the report,phrase
+w_0099,reviso la presentacion,I review the presentation,phrase
+w_0100,reviso el correo,I review the email,phrase
+w_0101,reviso la llamada,I review the call,phrase
+w_0102,reviso la tarea,I review the task,phrase
+w_0103,reviso el examen,I review the exam,phrase
+w_0104,reviso los deberes,I review the homework,phrase
+w_0105,reviso el documento,I review the document,phrase
+w_0106,reviso la agenda,I review the calendar,phrase
+w_0107,reviso el archivo,I review the file,phrase
+w_0108,reviso el presupuesto,I review the budget,phrase
+w_0109,reviso el contrato,I review the contract,phrase
+w_0110,reviso la factura,I review the invoice,phrase
+w_0111,envio la reunion,I send the meeting,phrase
+w_0112,envio el proyecto,I send the project,phrase
+w_0113,envio el informe,I send the report,phrase
+w_0114,envio la presentacion,I send the presentation,phrase
+w_0115,envio el correo,I send the email,phrase
+w_0116,envio la llamada,I send the call,phrase
+w_0117,envio la tarea,I send the task,phrase
+w_0118,envio el examen,I send the exam,phrase
+w_0119,envio los deberes,I send the homework,phrase
+w_0120,envio el documento,I send the document,phrase
+w_0121,envio la agenda,I send the calendar,phrase
+w_0122,envio el archivo,I send the file,phrase
+w_0123,envio el presupuesto,I send the budget,phrase
+w_0124,envio el contrato,I send the contract,phrase
+w_0125,envio la factura,I send the invoice,phrase
+w_0126,recibo la reunion,I receive the meeting,phrase
+w_0127,recibo el proyecto,I receive the project,phrase
+w_0128,recibo el informe,I receive the report,phrase
+w_0129,recibo la presentacion,I receive the presentation,phrase
+w_0130,recibo el correo,I receive the email,phrase
+w_0131,recibo la llamada,I receive the call,phrase
+w_0132,recibo la tarea,I receive the task,phrase
+w_0133,recibo el examen,I receive the exam,phrase
+w_0134,recibo los deberes,I receive the homework,phrase
+w_0135,recibo el documento,I receive the document,phrase
+w_0136,recibo la agenda,I receive the calendar,phrase
+w_0137,recibo el archivo,I receive the file,phrase
+w_0138,recibo el presupuesto,I receive the budget,phrase
+w_0139,recibo el contrato,I receive the contract,phrase
+w_0140,recibo la factura,I receive the invoice,phrase
+w_0141,organizo la reunion,I organize the meeting,phrase
+w_0142,organizo el proyecto,I organize the project,phrase
+w_0143,organizo el informe,I organize the report,phrase
+w_0144,organizo la presentacion,I organize the presentation,phrase
+w_0145,organizo el correo,I organize the email,phrase
+w_0146,organizo la llamada,I organize the call,phrase
+w_0147,organizo la tarea,I organize the task,phrase
+w_0148,organizo el examen,I organize the exam,phrase
+w_0149,organizo los deberes,I organize the homework,phrase
+w_0150,organizo el documento,I organize the document,phrase
+w_0151,organizo la agenda,I organize the calendar,phrase
+w_0152,organizo el archivo,I organize the file,phrase
+w_0153,organizo el presupuesto,I organize the budget,phrase
+w_0154,organizo el contrato,I organize the contract,phrase
+w_0155,organizo la factura,I organize the invoice,phrase
+w_0156,programo la reunion,I schedule the meeting,phrase
+w_0157,programo el proyecto,I schedule the project,phrase
+w_0158,programo el informe,I schedule the report,phrase
+w_0159,programo la presentacion,I schedule the presentation,phrase
+w_0160,programo el correo,I schedule the email,phrase
+w_0161,programo la llamada,I schedule the call,phrase
+w_0162,programo la tarea,I schedule the task,phrase
+w_0163,programo el examen,I schedule the exam,phrase
+w_0164,programo los deberes,I schedule the homework,phrase
+w_0165,programo el documento,I schedule the document,phrase
+w_0166,programo la agenda,I schedule the calendar,phrase
+w_0167,programo el archivo,I schedule the file,phrase
+w_0168,programo el presupuesto,I schedule the budget,phrase
+w_0169,programo el contrato,I schedule the contract,phrase
+w_0170,programo la factura,I schedule the invoice,phrase
+w_0171,participo en la reunion,I take part in the meeting,phrase
+w_0172,participo en el proyecto,I take part in the project,phrase
+w_0173,participo en el informe,I take part in the report,phrase
+w_0174,participo en la presentacion,I take part in the presentation,phrase
+w_0175,participo en el correo,I take part in the email,phrase
+w_0176,participo en la llamada,I take part in the call,phrase
+w_0177,participo en la tarea,I take part in the task,phrase
+w_0178,participo en el examen,I take part in the exam,phrase
+w_0179,participo en los deberes,I take part in the homework,phrase
+w_0180,participo en el documento,I take part in the document,phrase
+w_0181,participo en la agenda,I take part in the calendar,phrase
+w_0182,participo en el archivo,I take part in the file,phrase
+w_0183,participo en el presupuesto,I take part in the budget,phrase
+w_0184,participo en el contrato,I take part in the contract,phrase
+w_0185,participo en la factura,I take part in the invoice,phrase
+w_0186,preparo la reunion,I prepare the meeting,phrase
+w_0187,preparo el proyecto,I prepare the project,phrase
+w_0188,preparo el informe,I prepare the report,phrase
+w_0189,preparo la presentacion,I prepare the presentation,phrase
+w_0190,preparo el correo,I prepare the email,phrase
+w_0191,preparo la llamada,I prepare the call,phrase
+w_0192,preparo la tarea,I prepare the task,phrase
+w_0193,preparo el examen,I prepare the exam,phrase
+w_0194,preparo los deberes,I prepare the homework,phrase
+w_0195,preparo el documento,I prepare the document,phrase
+w_0196,preparo la agenda,I prepare the calendar,phrase
+w_0197,preparo el archivo,I prepare the file,phrase
+w_0198,preparo el presupuesto,I prepare the budget,phrase
+w_0199,preparo el contrato,I prepare the contract,phrase
+w_0200,preparo la factura,I prepare the invoice,phrase

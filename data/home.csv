@@ -1,0 +1,201 @@
+id,spanish,english,type
+w_0001,cocina,kitchen,word
+w_0002,salon,living room,word
+w_0003,dormitorio,bedroom,word
+w_0004,bano,bathroom,word
+w_0005,pasillo,hallway,word
+w_0006,puerta,door,word
+w_0007,ventana,window,word
+w_0008,llave,key,word
+w_0009,mesa,table,word
+w_0010,silla,chair,word
+w_0011,sofa,sofa,word
+w_0012,cama,bed,word
+w_0013,armario,wardrobe,word
+w_0014,espejo,mirror,word
+w_0015,lampara,lamp,word
+w_0016,alfombra,rug,word
+w_0017,estanteria,shelf,word
+w_0018,nevera,fridge,word
+w_0019,horno,oven,word
+w_0020,microondas,microwave,word
+w_0021,lavadora,washing machine,word
+w_0022,secadora,dryer,word
+w_0023,fregadero,sink,word
+w_0024,grifo,tap,word
+w_0025,ducha,shower,word
+w_0026,toalla,towel,word
+w_0027,jabon,soap,word
+w_0028,champu,shampoo,word
+w_0029,cepillo,brush,word
+w_0030,manta,blanket,word
+w_0031,almohada,pillow,word
+w_0032,sabana,sheet,word
+w_0033,enchufe,plug socket,word
+w_0034,cargador,charger,word
+w_0035,basura,trash,word
+w_0036,cubierta,cutlery,word
+w_0037,plato,plate,word
+w_0038,vaso,glass,word
+w_0039,taza,cup,word
+w_0040,sarten,frying pan,word
+w_0041,olla,pot,word
+w_0042,detergente,detergent,word
+w_0043,escoba,broom,word
+w_0044,fregona,mop,word
+w_0045,aspiradora,vacuum cleaner,word
+w_0046,limpio,clean,word
+w_0047,sucio,dirty,word
+w_0048,ordenado,tidy,word
+w_0049,desordenado,messy,word
+w_0050,hogar,home,word
+w_0051,limpio la cocina,I clean the kitchen,phrase
+w_0052,limpio el salon,I clean the living room,phrase
+w_0053,limpio el dormitorio,I clean the bedroom,phrase
+w_0054,limpio el baño,I clean the bathroom,phrase
+w_0055,limpio la ventana,I clean the window,phrase
+w_0056,limpio la puerta,I clean the door,phrase
+w_0057,limpio la mesa,I clean the table,phrase
+w_0058,limpio el sofa,I clean the sofa,phrase
+w_0059,limpio la nevera,I clean the fridge,phrase
+w_0060,limpio el horno,I clean the oven,phrase
+w_0061,limpio la lavadora,I clean the washing machine,phrase
+w_0062,limpio el fregadero,I clean the sink,phrase
+w_0063,limpio el suelo,I clean the floor,phrase
+w_0064,limpio la estanteria,I clean the shelf,phrase
+w_0065,limpio el armario,I clean the wardrobe,phrase
+w_0066,ordeno la cocina,I tidy the kitchen,phrase
+w_0067,ordeno el salon,I tidy the living room,phrase
+w_0068,ordeno el dormitorio,I tidy the bedroom,phrase
+w_0069,ordeno el baño,I tidy the bathroom,phrase
+w_0070,ordeno la ventana,I tidy the window,phrase
+w_0071,ordeno la puerta,I tidy the door,phrase
+w_0072,ordeno la mesa,I tidy the table,phrase
+w_0073,ordeno el sofa,I tidy the sofa,phrase
+w_0074,ordeno la nevera,I tidy the fridge,phrase
+w_0075,ordeno el horno,I tidy the oven,phrase
+w_0076,ordeno la lavadora,I tidy the washing machine,phrase
+w_0077,ordeno el fregadero,I tidy the sink,phrase
+w_0078,ordeno el suelo,I tidy the floor,phrase
+w_0079,ordeno la estanteria,I tidy the shelf,phrase
+w_0080,ordeno el armario,I tidy the wardrobe,phrase
+w_0081,friego la cocina,I wash the kitchen,phrase
+w_0082,friego el salon,I wash the living room,phrase
+w_0083,friego el dormitorio,I wash the bedroom,phrase
+w_0084,friego el baño,I wash the bathroom,phrase
+w_0085,friego la ventana,I wash the window,phrase
+w_0086,friego la puerta,I wash the door,phrase
+w_0087,friego la mesa,I wash the table,phrase
+w_0088,friego el sofa,I wash the sofa,phrase
+w_0089,friego la nevera,I wash the fridge,phrase
+w_0090,friego el horno,I wash the oven,phrase
+w_0091,friego la lavadora,I wash the washing machine,phrase
+w_0092,friego el fregadero,I wash the sink,phrase
+w_0093,friego el suelo,I wash the floor,phrase
+w_0094,friego la estanteria,I wash the shelf,phrase
+w_0095,friego el armario,I wash the wardrobe,phrase
+w_0096,barro la cocina,I sweep the kitchen,phrase
+w_0097,barro el salon,I sweep the living room,phrase
+w_0098,barro el dormitorio,I sweep the bedroom,phrase
+w_0099,barro el baño,I sweep the bathroom,phrase
+w_0100,barro la ventana,I sweep the window,phrase
+w_0101,barro la puerta,I sweep the door,phrase
+w_0102,barro la mesa,I sweep the table,phrase
+w_0103,barro el sofa,I sweep the sofa,phrase
+w_0104,barro la nevera,I sweep the fridge,phrase
+w_0105,barro el horno,I sweep the oven,phrase
+w_0106,barro la lavadora,I sweep the washing machine,phrase
+w_0107,barro el fregadero,I sweep the sink,phrase
+w_0108,barro el suelo,I sweep the floor,phrase
+w_0109,barro la estanteria,I sweep the shelf,phrase
+w_0110,barro el armario,I sweep the wardrobe,phrase
+w_0111,paso la aspiradora la cocina,I vacuum the kitchen,phrase
+w_0112,paso la aspiradora el salon,I vacuum the living room,phrase
+w_0113,paso la aspiradora el dormitorio,I vacuum the bedroom,phrase
+w_0114,paso la aspiradora el baño,I vacuum the bathroom,phrase
+w_0115,paso la aspiradora la ventana,I vacuum the window,phrase
+w_0116,paso la aspiradora la puerta,I vacuum the door,phrase
+w_0117,paso la aspiradora la mesa,I vacuum the table,phrase
+w_0118,paso la aspiradora el sofa,I vacuum the sofa,phrase
+w_0119,paso la aspiradora la nevera,I vacuum the fridge,phrase
+w_0120,paso la aspiradora el horno,I vacuum the oven,phrase
+w_0121,paso la aspiradora la lavadora,I vacuum the washing machine,phrase
+w_0122,paso la aspiradora el fregadero,I vacuum the sink,phrase
+w_0123,paso la aspiradora el suelo,I vacuum the floor,phrase
+w_0124,paso la aspiradora la estanteria,I vacuum the shelf,phrase
+w_0125,paso la aspiradora el armario,I vacuum the wardrobe,phrase
+w_0126,hago la cama la cocina,I make the bed the kitchen,phrase
+w_0127,hago la cama el salon,I make the bed the living room,phrase
+w_0128,hago la cama el dormitorio,I make the bed the bedroom,phrase
+w_0129,hago la cama el baño,I make the bed the bathroom,phrase
+w_0130,hago la cama la ventana,I make the bed the window,phrase
+w_0131,hago la cama la puerta,I make the bed the door,phrase
+w_0132,hago la cama la mesa,I make the bed the table,phrase
+w_0133,hago la cama el sofa,I make the bed the sofa,phrase
+w_0134,hago la cama la nevera,I make the bed the fridge,phrase
+w_0135,hago la cama el horno,I make the bed the oven,phrase
+w_0136,hago la cama la lavadora,I make the bed the washing machine,phrase
+w_0137,hago la cama el fregadero,I make the bed the sink,phrase
+w_0138,hago la cama el suelo,I make the bed the floor,phrase
+w_0139,hago la cama la estanteria,I make the bed the shelf,phrase
+w_0140,hago la cama el armario,I make the bed the wardrobe,phrase
+w_0141,saco la basura la cocina,I take out the trash the kitchen,phrase
+w_0142,saco la basura el salon,I take out the trash the living room,phrase
+w_0143,saco la basura el dormitorio,I take out the trash the bedroom,phrase
+w_0144,saco la basura el baño,I take out the trash the bathroom,phrase
+w_0145,saco la basura la ventana,I take out the trash the window,phrase
+w_0146,saco la basura la puerta,I take out the trash the door,phrase
+w_0147,saco la basura la mesa,I take out the trash the table,phrase
+w_0148,saco la basura el sofa,I take out the trash the sofa,phrase
+w_0149,saco la basura la nevera,I take out the trash the fridge,phrase
+w_0150,saco la basura el horno,I take out the trash the oven,phrase
+w_0151,saco la basura la lavadora,I take out the trash the washing machine,phrase
+w_0152,saco la basura el fregadero,I take out the trash the sink,phrase
+w_0153,saco la basura el suelo,I take out the trash the floor,phrase
+w_0154,saco la basura la estanteria,I take out the trash the shelf,phrase
+w_0155,saco la basura el armario,I take out the trash the wardrobe,phrase
+w_0156,abro la cocina,I open the kitchen,phrase
+w_0157,abro el salon,I open the living room,phrase
+w_0158,abro el dormitorio,I open the bedroom,phrase
+w_0159,abro el baño,I open the bathroom,phrase
+w_0160,abro la ventana,I open the window,phrase
+w_0161,abro la puerta,I open the door,phrase
+w_0162,abro la mesa,I open the table,phrase
+w_0163,abro el sofa,I open the sofa,phrase
+w_0164,abro la nevera,I open the fridge,phrase
+w_0165,abro el horno,I open the oven,phrase
+w_0166,abro la lavadora,I open the washing machine,phrase
+w_0167,abro el fregadero,I open the sink,phrase
+w_0168,abro el suelo,I open the floor,phrase
+w_0169,abro la estanteria,I open the shelf,phrase
+w_0170,abro el armario,I open the wardrobe,phrase
+w_0171,cierro la cocina,I close the kitchen,phrase
+w_0172,cierro el salon,I close the living room,phrase
+w_0173,cierro el dormitorio,I close the bedroom,phrase
+w_0174,cierro el baño,I close the bathroom,phrase
+w_0175,cierro la ventana,I close the window,phrase
+w_0176,cierro la puerta,I close the door,phrase
+w_0177,cierro la mesa,I close the table,phrase
+w_0178,cierro el sofa,I close the sofa,phrase
+w_0179,cierro la nevera,I close the fridge,phrase
+w_0180,cierro el horno,I close the oven,phrase
+w_0181,cierro la lavadora,I close the washing machine,phrase
+w_0182,cierro el fregadero,I close the sink,phrase
+w_0183,cierro el suelo,I close the floor,phrase
+w_0184,cierro la estanteria,I close the shelf,phrase
+w_0185,cierro el armario,I close the wardrobe,phrase
+w_0186,arreglo la cocina,I fix the kitchen,phrase
+w_0187,arreglo el salon,I fix the living room,phrase
+w_0188,arreglo el dormitorio,I fix the bedroom,phrase
+w_0189,arreglo el baño,I fix the bathroom,phrase
+w_0190,arreglo la ventana,I fix the window,phrase
+w_0191,arreglo la puerta,I fix the door,phrase
+w_0192,arreglo la mesa,I fix the table,phrase
+w_0193,arreglo el sofa,I fix the sofa,phrase
+w_0194,arreglo la nevera,I fix the fridge,phrase
+w_0195,arreglo el horno,I fix the oven,phrase
+w_0196,arreglo la lavadora,I fix the washing machine,phrase
+w_0197,arreglo el fregadero,I fix the sink,phrase
+w_0198,arreglo el suelo,I fix the floor,phrase
+w_0199,arreglo la estanteria,I fix the shelf,phrase
+w_0200,arreglo el armario,I fix the wardrobe,phrase

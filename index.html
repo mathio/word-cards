@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#ff6b35" />
+    <title>WordCards</title>
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Spanish (Spain) to English</p>
+          <h1>WordCards</h1>
+        </div>
+        <button id="reset-progress" class="ghost small" type="button">Reset</button>
+      </header>
+
+      <main id="view-home" class="view active">
+        <section class="panel">
+          <h2>Choose Category</h2>
+          <p class="subtle">Each session has 20 cards and quiz repeats until all are right.</p>
+          <div id="category-grid" class="category-grid"></div>
+        </section>
+
+        <section class="panel controls">
+          <button id="start-session" class="primary" type="button" disabled>Start 20-Card Session</button>
+          <div class="code-tools">
+            <button id="copy-code" class="ghost" type="button">Copy Progress Code</button>
+            <button id="import-toggle" class="ghost" type="button">Import Code</button>
+          </div>
+          <div id="import-box" class="import-box hidden">
+            <textarea id="import-text" rows="3" placeholder="Paste progress code"></textarea>
+            <button id="import-code" class="primary" type="button">Load Progress Code</button>
+          </div>
+          <p id="message" class="message"></p>
+        </section>
+      </main>
+
+      <main id="view-session" class="view">
+        <section class="session-head">
+          <div>
+            <h2 id="session-title">Session</h2>
+          </div>
+          <button id="exit-session" class="ghost small" type="button">Exit</button>
+        </section>
+
+        <section id="learn-phase" class="phase active">
+          <div class="phase-meta">
+            <p id="learn-progress">Card 1 / 20</p>
+          </div>
+          <div id="card-stage" class="card-stage"></div>
+          <div class="swipe-actions">
+            <button id="dont-know" class="danger" type="button">Don't Know</button>
+            <button id="start-quiz-manual" class="quiz-start hidden" type="button">Quiz</button>
+            <button id="know" class="success" type="button">Know</button>
+          </div>
+        </section>
+
+        <section id="quiz-phase" class="phase">
+          <div class="phase-meta">
+            <p id="quiz-progress">Question</p>
+            <p>Pick the correct Spanish term.</p>
+          </div>
+          <div class="quiz-card">
+            <p class="prompt-label">English</p>
+            <h3 id="quiz-prompt">Prompt</h3>
+            <div id="quiz-options" class="quiz-options"></div>
+            <p id="quiz-feedback" class="message"></p>
+          </div>
+        </section>
+
+        <section id="summary-phase" class="phase">
+          <h2>Session Complete</h2>
+          <div id="summary-stats" class="summary-stats"></div>
+          <button id="back-home" class="primary" type="button">Back to Categories</button>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

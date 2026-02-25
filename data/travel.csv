@@ -1,0 +1,291 @@
+id,spanish,english,type
+w_0001,aeropuerto,airport,word
+w_0002,estacion,station,word
+w_0003,parada,stop,word
+w_0004,tren,train,word
+w_0005,autobus,bus,word
+w_0006,metro,subway,word
+w_0007,taxi,taxi,word
+w_0008,avion,plane,word
+w_0009,vuelo,flight,word
+w_0010,equipaje,luggage,word
+w_0011,maleta,suitcase,word
+w_0012,pasaporte,passport,word
+w_0013,billete,ticket,word
+w_0014,andén,platform,word
+w_0015,puerta,gate,word
+w_0016,mapa,map,word
+w_0017,ruta,route,word
+w_0018,calle,street,word
+w_0019,avenida,avenue,word
+w_0020,plaza,square,word
+w_0021,hotel,hotel,word
+w_0022,hostal,guesthouse,word
+w_0023,reserva,reservation,word
+w_0024,habitacion,room,word
+w_0025,llave,key,word
+w_0026,playa,beach,word
+w_0027,montana,mountain,word
+w_0028,museo,museum,word
+w_0029,entrada,entrance ticket,word
+w_0030,salida,exit,word
+w_0031,izquierda,left,word
+w_0032,derecha,right,word
+w_0033,recto,straight ahead,word
+w_0034,cerca,near,word
+w_0035,lejos,far,word
+w_0036,cruce,intersection,word
+w_0037,puente,bridge,word
+w_0038,carretera,road,word
+w_0039,ciudad,city,word
+w_0040,pueblo,town,word
+w_0041,viaje,trip,word
+w_0042,turista,tourist,word
+w_0043,guia,guide,word
+w_0044,horario,schedule,word
+w_0045,retraso,delay,word
+w_0046,cancelacion,cancellation,word
+w_0047,asiento,seat,word
+w_0048,ventanilla,window seat,word
+w_0049,pasillo,aisle seat,word
+w_0050,destino,destination,word
+w_0051,donde esta la estacion,where is the station,phrase
+w_0052,donde esta el aeropuerto,where is the airport,phrase
+w_0053,donde esta el hotel,where is the hotel,phrase
+w_0054,donde esta el museo,where is the museum,phrase
+w_0055,donde esta la playa,where is the beach,phrase
+w_0056,donde esta el centro,where is the center,phrase
+w_0057,donde esta la parada,where is the stop,phrase
+w_0058,donde esta la taquilla,where is the ticket office,phrase
+w_0059,donde esta la puerta de embarque,where is the boarding gate,phrase
+w_0060,donde esta el andén,where is the platform,phrase
+w_0061,donde esta la recepcion,where is the reception,phrase
+w_0062,donde esta el baño,where is the bathroom,phrase
+w_0063,donde esta el mapa,where is the map,phrase
+w_0064,donde esta el autobus,where is the bus,phrase
+w_0065,donde esta el metro,where is the subway,phrase
+w_0066,como llego a la estacion,how do I get to the station,phrase
+w_0067,como llego a el aeropuerto,how do I get to the airport,phrase
+w_0068,como llego a el hotel,how do I get to the hotel,phrase
+w_0069,como llego a el museo,how do I get to the museum,phrase
+w_0070,como llego a la playa,how do I get to the beach,phrase
+w_0071,como llego a el centro,how do I get to the center,phrase
+w_0072,como llego a la parada,how do I get to the stop,phrase
+w_0073,como llego a la taquilla,how do I get to the ticket office,phrase
+w_0074,como llego a la puerta de embarque,how do I get to the boarding gate,phrase
+w_0075,como llego a el andén,how do I get to the platform,phrase
+w_0076,como llego a la recepcion,how do I get to the reception,phrase
+w_0077,como llego a el baño,how do I get to the bathroom,phrase
+w_0078,como llego a el mapa,how do I get to the map,phrase
+w_0079,como llego a el autobus,how do I get to the bus,phrase
+w_0080,como llego a el metro,how do I get to the subway,phrase
+w_0081,quiero ir a la estacion,I want to go to the station,phrase
+w_0082,quiero ir a el aeropuerto,I want to go to the airport,phrase
+w_0083,quiero ir a el hotel,I want to go to the hotel,phrase
+w_0084,quiero ir a el museo,I want to go to the museum,phrase
+w_0085,quiero ir a la playa,I want to go to the beach,phrase
+w_0086,quiero ir a el centro,I want to go to the center,phrase
+w_0087,quiero ir a la parada,I want to go to the stop,phrase
+w_0088,quiero ir a la taquilla,I want to go to the ticket office,phrase
+w_0089,quiero ir a la puerta de embarque,I want to go to the boarding gate,phrase
+w_0090,quiero ir a el andén,I want to go to the platform,phrase
+w_0091,quiero ir a la recepcion,I want to go to the reception,phrase
+w_0092,quiero ir a el baño,I want to go to the bathroom,phrase
+w_0093,quiero ir a el mapa,I want to go to the map,phrase
+w_0094,quiero ir a el autobus,I want to go to the bus,phrase
+w_0095,quiero ir a el metro,I want to go to the subway,phrase
+w_0096,a que hora sale la estacion,what time does the station leave,phrase
+w_0097,a que hora sale el aeropuerto,what time does the airport leave,phrase
+w_0098,a que hora sale el hotel,what time does the hotel leave,phrase
+w_0099,a que hora sale el museo,what time does the museum leave,phrase
+w_0100,a que hora sale la playa,what time does the beach leave,phrase
+w_0101,a que hora sale el centro,what time does the center leave,phrase
+w_0102,a que hora sale la parada,what time does the stop leave,phrase
+w_0103,a que hora sale la taquilla,what time does the ticket office leave,phrase
+w_0104,a que hora sale la puerta de embarque,what time does the boarding gate leave,phrase
+w_0105,a que hora sale el andén,what time does the platform leave,phrase
+w_0106,a que hora sale la recepcion,what time does the reception leave,phrase
+w_0107,a que hora sale el baño,what time does the bathroom leave,phrase
+w_0108,a que hora sale el mapa,what time does the map leave,phrase
+w_0109,a que hora sale el autobus,what time does the bus leave,phrase
+w_0110,a que hora sale el metro,what time does the subway leave,phrase
+w_0111,cuanto cuesta la estacion,how much does the station cost,phrase
+w_0112,cuanto cuesta el aeropuerto,how much does the airport cost,phrase
+w_0113,cuanto cuesta el hotel,how much does the hotel cost,phrase
+w_0114,cuanto cuesta el museo,how much does the museum cost,phrase
+w_0115,cuanto cuesta la playa,how much does the beach cost,phrase
+w_0116,cuanto cuesta el centro,how much does the center cost,phrase
+w_0117,cuanto cuesta la parada,how much does the stop cost,phrase
+w_0118,cuanto cuesta la taquilla,how much does the ticket office cost,phrase
+w_0119,cuanto cuesta la puerta de embarque,how much does the boarding gate cost,phrase
+w_0120,cuanto cuesta el andén,how much does the platform cost,phrase
+w_0121,cuanto cuesta la recepcion,how much does the reception cost,phrase
+w_0122,cuanto cuesta el baño,how much does the bathroom cost,phrase
+w_0123,cuanto cuesta el mapa,how much does the map cost,phrase
+w_0124,cuanto cuesta el autobus,how much does the bus cost,phrase
+w_0125,cuanto cuesta el metro,how much does the subway cost,phrase
+w_0126,tengo una reserva en la estacion,I have a reservation at the station,phrase
+w_0127,tengo una reserva en el aeropuerto,I have a reservation at the airport,phrase
+w_0128,tengo una reserva en el hotel,I have a reservation at the hotel,phrase
+w_0129,tengo una reserva en el museo,I have a reservation at the museum,phrase
+w_0130,tengo una reserva en la playa,I have a reservation at the beach,phrase
+w_0131,tengo una reserva en el centro,I have a reservation at the center,phrase
+w_0132,tengo una reserva en la parada,I have a reservation at the stop,phrase
+w_0133,tengo una reserva en la taquilla,I have a reservation at the ticket office,phrase
+w_0134,tengo una reserva en la puerta de embarque,I have a reservation at the boarding gate,phrase
+w_0135,tengo una reserva en el andén,I have a reservation at the platform,phrase
+w_0136,tengo una reserva en la recepcion,I have a reservation at the reception,phrase
+w_0137,tengo una reserva en el baño,I have a reservation at the bathroom,phrase
+w_0138,tengo una reserva en el mapa,I have a reservation at the map,phrase
+w_0139,tengo una reserva en el autobus,I have a reservation at the bus,phrase
+w_0140,tengo una reserva en el metro,I have a reservation at the subway,phrase
+w_0141,busco la estacion,I am looking for the station,phrase
+w_0142,busco el aeropuerto,I am looking for the airport,phrase
+w_0143,busco el hotel,I am looking for the hotel,phrase
+w_0144,busco el museo,I am looking for the museum,phrase
+w_0145,busco la playa,I am looking for the beach,phrase
+w_0146,busco el centro,I am looking for the center,phrase
+w_0147,busco la parada,I am looking for the stop,phrase
+w_0148,busco la taquilla,I am looking for the ticket office,phrase
+w_0149,busco la puerta de embarque,I am looking for the boarding gate,phrase
+w_0150,busco el andén,I am looking for the platform,phrase
+w_0151,busco la recepcion,I am looking for the reception,phrase
+w_0152,busco el baño,I am looking for the bathroom,phrase
+w_0153,busco el mapa,I am looking for the map,phrase
+w_0154,busco el autobus,I am looking for the bus,phrase
+w_0155,busco el metro,I am looking for the subway,phrase
+w_0156,encuentro la estacion,I find the station,phrase
+w_0157,encuentro el aeropuerto,I find the airport,phrase
+w_0158,encuentro el hotel,I find the hotel,phrase
+w_0159,encuentro el museo,I find the museum,phrase
+w_0160,encuentro la playa,I find the beach,phrase
+w_0161,encuentro el centro,I find the center,phrase
+w_0162,encuentro la parada,I find the stop,phrase
+w_0163,encuentro la taquilla,I find the ticket office,phrase
+w_0164,encuentro la puerta de embarque,I find the boarding gate,phrase
+w_0165,encuentro el andén,I find the platform,phrase
+w_0166,encuentro la recepcion,I find the reception,phrase
+w_0167,encuentro el baño,I find the bathroom,phrase
+w_0168,encuentro el mapa,I find the map,phrase
+w_0169,encuentro el autobus,I find the bus,phrase
+w_0170,encuentro el metro,I find the subway,phrase
+w_0171,visito la estacion,I visit the station,phrase
+w_0172,visito el aeropuerto,I visit the airport,phrase
+w_0173,visito el hotel,I visit the hotel,phrase
+w_0174,visito el museo,I visit the museum,phrase
+w_0175,visito la playa,I visit the beach,phrase
+w_0176,visito el centro,I visit the center,phrase
+w_0177,visito la parada,I visit the stop,phrase
+w_0178,visito la taquilla,I visit the ticket office,phrase
+w_0179,visito la puerta de embarque,I visit the boarding gate,phrase
+w_0180,visito el andén,I visit the platform,phrase
+w_0181,visito la recepcion,I visit the reception,phrase
+w_0182,visito el baño,I visit the bathroom,phrase
+w_0183,visito el mapa,I visit the map,phrase
+w_0184,visito el autobus,I visit the bus,phrase
+w_0185,visito el metro,I visit the subway,phrase
+w_0186,reservo la estacion,I book the station,phrase
+w_0187,reservo el aeropuerto,I book the airport,phrase
+w_0188,reservo el hotel,I book the hotel,phrase
+w_0189,reservo el museo,I book the museum,phrase
+w_0190,reservo la playa,I book the beach,phrase
+w_0191,reservo el centro,I book the center,phrase
+w_0192,reservo la parada,I book the stop,phrase
+w_0193,reservo la taquilla,I book the ticket office,phrase
+w_0194,reservo la puerta de embarque,I book the boarding gate,phrase
+w_0195,reservo el andén,I book the platform,phrase
+w_0196,reservo la recepcion,I book the reception,phrase
+w_0197,reservo el baño,I book the bathroom,phrase
+w_0198,reservo el mapa,I book the map,phrase
+w_0199,reservo el autobus,I book the bus,phrase
+w_0200,reservo el metro,I book the subway,phrase
+w_0201,confirmo la estacion,I confirm the station,phrase
+w_0202,confirmo el aeropuerto,I confirm the airport,phrase
+w_0203,confirmo el hotel,I confirm the hotel,phrase
+w_0204,confirmo el museo,I confirm the museum,phrase
+w_0205,confirmo la playa,I confirm the beach,phrase
+w_0206,confirmo el centro,I confirm the center,phrase
+w_0207,confirmo la parada,I confirm the stop,phrase
+w_0208,confirmo la taquilla,I confirm the ticket office,phrase
+w_0209,confirmo la puerta de embarque,I confirm the boarding gate,phrase
+w_0210,confirmo el andén,I confirm the platform,phrase
+w_0211,confirmo la recepcion,I confirm the reception,phrase
+w_0212,confirmo el baño,I confirm the bathroom,phrase
+w_0213,confirmo el mapa,I confirm the map,phrase
+w_0214,confirmo el autobus,I confirm the bus,phrase
+w_0215,confirmo el metro,I confirm the subway,phrase
+w_0216,cambio la estacion,I change the station,phrase
+w_0217,cambio el aeropuerto,I change the airport,phrase
+w_0218,cambio el hotel,I change the hotel,phrase
+w_0219,cambio el museo,I change the museum,phrase
+w_0220,cambio la playa,I change the beach,phrase
+w_0221,cambio el centro,I change the center,phrase
+w_0222,cambio la parada,I change the stop,phrase
+w_0223,cambio la taquilla,I change the ticket office,phrase
+w_0224,cambio la puerta de embarque,I change the boarding gate,phrase
+w_0225,cambio el andén,I change the platform,phrase
+w_0226,cambio la recepcion,I change the reception,phrase
+w_0227,cambio el baño,I change the bathroom,phrase
+w_0228,cambio el mapa,I change the map,phrase
+w_0229,cambio el autobus,I change the bus,phrase
+w_0230,cambio el metro,I change the subway,phrase
+w_0231,pierdo la estacion,I lose the station,phrase
+w_0232,pierdo el aeropuerto,I lose the airport,phrase
+w_0233,pierdo el hotel,I lose the hotel,phrase
+w_0234,pierdo el museo,I lose the museum,phrase
+w_0235,pierdo la playa,I lose the beach,phrase
+w_0236,pierdo el centro,I lose the center,phrase
+w_0237,pierdo la parada,I lose the stop,phrase
+w_0238,pierdo la taquilla,I lose the ticket office,phrase
+w_0239,pierdo la puerta de embarque,I lose the boarding gate,phrase
+w_0240,pierdo el andén,I lose the platform,phrase
+w_0241,pierdo la recepcion,I lose the reception,phrase
+w_0242,pierdo el baño,I lose the bathroom,phrase
+w_0243,pierdo el mapa,I lose the map,phrase
+w_0244,pierdo el autobus,I lose the bus,phrase
+w_0245,pierdo el metro,I lose the subway,phrase
+w_0246,recojo la estacion,I pick up the station,phrase
+w_0247,recojo el aeropuerto,I pick up the airport,phrase
+w_0248,recojo el hotel,I pick up the hotel,phrase
+w_0249,recojo el museo,I pick up the museum,phrase
+w_0250,recojo la playa,I pick up the beach,phrase
+w_0251,recojo el centro,I pick up the center,phrase
+w_0252,recojo la parada,I pick up the stop,phrase
+w_0253,recojo la taquilla,I pick up the ticket office,phrase
+w_0254,recojo la puerta de embarque,I pick up the boarding gate,phrase
+w_0255,recojo el andén,I pick up the platform,phrase
+w_0256,recojo la recepcion,I pick up the reception,phrase
+w_0257,recojo el baño,I pick up the bathroom,phrase
+w_0258,recojo el mapa,I pick up the map,phrase
+w_0259,recojo el autobus,I pick up the bus,phrase
+w_0260,recojo el metro,I pick up the subway,phrase
+w_0261,facturo la estacion,I check in the station,phrase
+w_0262,facturo el aeropuerto,I check in the airport,phrase
+w_0263,facturo el hotel,I check in the hotel,phrase
+w_0264,facturo el museo,I check in the museum,phrase
+w_0265,facturo la playa,I check in the beach,phrase
+w_0266,facturo el centro,I check in the center,phrase
+w_0267,facturo la parada,I check in the stop,phrase
+w_0268,facturo la taquilla,I check in the ticket office,phrase
+w_0269,facturo la puerta de embarque,I check in the boarding gate,phrase
+w_0270,facturo el andén,I check in the platform,phrase
+w_0271,facturo la recepcion,I check in the reception,phrase
+w_0272,facturo el baño,I check in the bathroom,phrase
+w_0273,facturo el mapa,I check in the map,phrase
+w_0274,facturo el autobus,I check in the bus,phrase
+w_0275,facturo el metro,I check in the subway,phrase
+w_0276,espero en la estacion,I wait at the station,phrase
+w_0277,espero en el aeropuerto,I wait at the airport,phrase
+w_0278,espero en el hotel,I wait at the hotel,phrase
+w_0279,espero en el museo,I wait at the museum,phrase
+w_0280,espero en la playa,I wait at the beach,phrase
+w_0281,espero en el centro,I wait at the center,phrase
+w_0282,espero en la parada,I wait at the stop,phrase
+w_0283,espero en la taquilla,I wait at the ticket office,phrase
+w_0284,espero en la puerta de embarque,I wait at the boarding gate,phrase
+w_0285,espero en el andén,I wait at the platform,phrase
+w_0286,espero en la recepcion,I wait at the reception,phrase
+w_0287,espero en el baño,I wait at the bathroom,phrase
+w_0288,espero en el mapa,I wait at the map,phrase
+w_0289,espero en el autobus,I wait at the bus,phrase
+w_0290,espero en el metro,I wait at the subway,phrase

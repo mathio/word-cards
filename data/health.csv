@@ -1,0 +1,267 @@
+id,spanish,english,type
+w_0001,cabeza,head,word
+w_0002,ojo,eye,word
+w_0003,oreja,ear,word
+w_0004,nariz,nose,word
+w_0005,boca,mouth,word
+w_0006,diente,tooth,word
+w_0007,cuello,neck,word
+w_0008,hombro,shoulder,word
+w_0009,brazo,arm,word
+w_0010,mano,hand,word
+w_0011,dedo,finger,word
+w_0012,pecho,chest,word
+w_0013,espalda,back,word
+w_0014,estomago,stomach,word
+w_0015,pierna,leg,word
+w_0016,rodilla,knee,word
+w_0017,pie,foot,word
+w_0018,corazon,heart,word
+w_0019,sangre,blood,word
+w_0020,salud,health,word
+w_0021,medico,doctor,word
+w_0022,enfermera,nurse,word
+w_0023,farmacia,pharmacy,word
+w_0024,hospital,hospital,word
+w_0025,cita,appointment,word
+w_0026,medicina,medicine,word
+w_0027,pastilla,pill,word
+w_0028,jarabe,syrup,word
+w_0029,inyeccion,injection,word
+w_0030,receta,prescription,word
+w_0031,fiebre,fever,word
+w_0032,tos,cough,word
+w_0033,dolor,pain,word
+w_0034,mareo,dizziness,word
+w_0035,nauseas,nausea,word
+w_0036,cansancio,fatigue,word
+w_0037,frio,cold (illness),word
+w_0038,gripe,flu,word
+w_0039,alergia,allergy,word
+w_0040,herida,wound,word
+w_0041,sano,healthy,word
+w_0042,enfermo,sick,word
+w_0043,descanso,rest,word
+w_0044,sueño,sleep,word
+w_0045,agua,water,word
+w_0046,ejercicio,exercise,word
+w_0047,respirar,to breathe,word
+w_0048,caminar,to walk,word
+w_0049,comer sano,eat healthy,word
+w_0050,bienestar,wellbeing,word
+w_0051,necesito la cabeza,I need head,phrase
+w_0052,necesito el estomago,I need stomach,phrase
+w_0053,necesito la espalda,I need back,phrase
+w_0054,necesito la pierna,I need leg,phrase
+w_0055,necesito la rodilla,I need knee,phrase
+w_0056,necesito el brazo,I need arm,phrase
+w_0057,necesito medicina,I need medicine,phrase
+w_0058,necesito una pastilla,I need a pill,phrase
+w_0059,necesito agua,I need water,phrase
+w_0060,necesito descanso,I need rest,phrase
+w_0061,necesito una cita medica,I need a doctor appointment,phrase
+w_0062,necesito una receta,I need a prescription,phrase
+w_0063,necesito jarabe,I need syrup,phrase
+w_0064,necesito ejercicio,I need exercise,phrase
+w_0065,necesito ayuda,I need help,phrase
+w_0066,tomo la cabeza,I take head,phrase
+w_0067,tomo el estomago,I take stomach,phrase
+w_0068,tomo la espalda,I take back,phrase
+w_0069,tomo la pierna,I take leg,phrase
+w_0070,tomo la rodilla,I take knee,phrase
+w_0071,tomo el brazo,I take arm,phrase
+w_0072,tomo medicina,I take medicine,phrase
+w_0073,tomo una pastilla,I take a pill,phrase
+w_0074,tomo agua,I take water,phrase
+w_0075,tomo descanso,I take rest,phrase
+w_0076,tomo una cita medica,I take a doctor appointment,phrase
+w_0077,tomo una receta,I take a prescription,phrase
+w_0078,tomo jarabe,I take syrup,phrase
+w_0079,tomo ejercicio,I take exercise,phrase
+w_0080,tomo ayuda,I take help,phrase
+w_0081,evito la cabeza,I avoid head,phrase
+w_0082,evito el estomago,I avoid stomach,phrase
+w_0083,evito la espalda,I avoid back,phrase
+w_0084,evito la pierna,I avoid leg,phrase
+w_0085,evito la rodilla,I avoid knee,phrase
+w_0086,evito el brazo,I avoid arm,phrase
+w_0087,evito medicina,I avoid medicine,phrase
+w_0088,evito una pastilla,I avoid a pill,phrase
+w_0089,evito agua,I avoid water,phrase
+w_0090,evito descanso,I avoid rest,phrase
+w_0091,evito una cita medica,I avoid a doctor appointment,phrase
+w_0092,evito una receta,I avoid a prescription,phrase
+w_0093,evito jarabe,I avoid syrup,phrase
+w_0094,evito ejercicio,I avoid exercise,phrase
+w_0095,evito ayuda,I avoid help,phrase
+w_0096,cuido la cabeza,I take care of head,phrase
+w_0097,cuido el estomago,I take care of stomach,phrase
+w_0098,cuido la espalda,I take care of back,phrase
+w_0099,cuido la pierna,I take care of leg,phrase
+w_0100,cuido la rodilla,I take care of knee,phrase
+w_0101,cuido el brazo,I take care of arm,phrase
+w_0102,cuido medicina,I take care of medicine,phrase
+w_0103,cuido una pastilla,I take care of a pill,phrase
+w_0104,cuido agua,I take care of water,phrase
+w_0105,cuido descanso,I take care of rest,phrase
+w_0106,cuido una cita medica,I take care of a doctor appointment,phrase
+w_0107,cuido una receta,I take care of a prescription,phrase
+w_0108,cuido jarabe,I take care of syrup,phrase
+w_0109,cuido ejercicio,I take care of exercise,phrase
+w_0110,cuido ayuda,I take care of help,phrase
+w_0111,muevo la cabeza,I move head,phrase
+w_0112,muevo el estomago,I move stomach,phrase
+w_0113,muevo la espalda,I move back,phrase
+w_0114,muevo la pierna,I move leg,phrase
+w_0115,muevo la rodilla,I move knee,phrase
+w_0116,muevo el brazo,I move arm,phrase
+w_0117,muevo medicina,I move medicine,phrase
+w_0118,muevo una pastilla,I move a pill,phrase
+w_0119,muevo agua,I move water,phrase
+w_0120,muevo descanso,I move rest,phrase
+w_0121,muevo una cita medica,I move a doctor appointment,phrase
+w_0122,muevo una receta,I move a prescription,phrase
+w_0123,muevo jarabe,I move syrup,phrase
+w_0124,muevo ejercicio,I move exercise,phrase
+w_0125,muevo ayuda,I move help,phrase
+w_0126,descanso la cabeza,I rest head,phrase
+w_0127,descanso el estomago,I rest stomach,phrase
+w_0128,descanso la espalda,I rest back,phrase
+w_0129,descanso la pierna,I rest leg,phrase
+w_0130,descanso la rodilla,I rest knee,phrase
+w_0131,descanso el brazo,I rest arm,phrase
+w_0132,descanso medicina,I rest medicine,phrase
+w_0133,descanso una pastilla,I rest a pill,phrase
+w_0134,descanso agua,I rest water,phrase
+w_0135,descanso descanso,I rest rest,phrase
+w_0136,descanso una cita medica,I rest a doctor appointment,phrase
+w_0137,descanso una receta,I rest a prescription,phrase
+w_0138,descanso jarabe,I rest syrup,phrase
+w_0139,descanso ejercicio,I rest exercise,phrase
+w_0140,descanso ayuda,I rest help,phrase
+w_0141,reviso la cabeza,I check head,phrase
+w_0142,reviso el estomago,I check stomach,phrase
+w_0143,reviso la espalda,I check back,phrase
+w_0144,reviso la pierna,I check leg,phrase
+w_0145,reviso la rodilla,I check knee,phrase
+w_0146,reviso el brazo,I check arm,phrase
+w_0147,reviso medicina,I check medicine,phrase
+w_0148,reviso una pastilla,I check a pill,phrase
+w_0149,reviso agua,I check water,phrase
+w_0150,reviso descanso,I check rest,phrase
+w_0151,reviso una cita medica,I check a doctor appointment,phrase
+w_0152,reviso una receta,I check a prescription,phrase
+w_0153,reviso jarabe,I check syrup,phrase
+w_0154,reviso ejercicio,I check exercise,phrase
+w_0155,reviso ayuda,I check help,phrase
+w_0156,mejoro la cabeza,I improve head,phrase
+w_0157,mejoro el estomago,I improve stomach,phrase
+w_0158,mejoro la espalda,I improve back,phrase
+w_0159,mejoro la pierna,I improve leg,phrase
+w_0160,mejoro la rodilla,I improve knee,phrase
+w_0161,mejoro el brazo,I improve arm,phrase
+w_0162,mejoro medicina,I improve medicine,phrase
+w_0163,mejoro una pastilla,I improve a pill,phrase
+w_0164,mejoro agua,I improve water,phrase
+w_0165,mejoro descanso,I improve rest,phrase
+w_0166,mejoro una cita medica,I improve a doctor appointment,phrase
+w_0167,mejoro una receta,I improve a prescription,phrase
+w_0168,mejoro jarabe,I improve syrup,phrase
+w_0169,mejoro ejercicio,I improve exercise,phrase
+w_0170,mejoro ayuda,I improve help,phrase
+w_0171,consulto la cabeza,I consult head,phrase
+w_0172,consulto el estomago,I consult stomach,phrase
+w_0173,consulto la espalda,I consult back,phrase
+w_0174,consulto la pierna,I consult leg,phrase
+w_0175,consulto la rodilla,I consult knee,phrase
+w_0176,consulto el brazo,I consult arm,phrase
+w_0177,consulto medicina,I consult medicine,phrase
+w_0178,consulto una pastilla,I consult a pill,phrase
+w_0179,consulto agua,I consult water,phrase
+w_0180,consulto descanso,I consult rest,phrase
+w_0181,consulto una cita medica,I consult a doctor appointment,phrase
+w_0182,consulto una receta,I consult a prescription,phrase
+w_0183,consulto jarabe,I consult syrup,phrase
+w_0184,consulto ejercicio,I consult exercise,phrase
+w_0185,consulto ayuda,I consult help,phrase
+w_0186,anoto la cabeza,I note head,phrase
+w_0187,anoto el estomago,I note stomach,phrase
+w_0188,anoto la espalda,I note back,phrase
+w_0189,anoto la pierna,I note leg,phrase
+w_0190,anoto la rodilla,I note knee,phrase
+w_0191,anoto el brazo,I note arm,phrase
+w_0192,anoto medicina,I note medicine,phrase
+w_0193,anoto una pastilla,I note a pill,phrase
+w_0194,anoto agua,I note water,phrase
+w_0195,anoto descanso,I note rest,phrase
+w_0196,anoto una cita medica,I note a doctor appointment,phrase
+w_0197,anoto una receta,I note a prescription,phrase
+w_0198,anoto jarabe,I note syrup,phrase
+w_0199,anoto ejercicio,I note exercise,phrase
+w_0200,anoto ayuda,I note help,phrase
+w_0201,me duele la cabeza,my head hurts,phrase
+w_0202,me duele el estomago,my stomach hurts,phrase
+w_0203,me duele la espalda,my back hurts,phrase
+w_0204,me duele la pierna,my leg hurts,phrase
+w_0205,me duele la rodilla,my knee hurts,phrase
+w_0206,me duele el brazo,my arm hurts,phrase
+w_0207,me duele medicina,my medicine hurts,phrase
+w_0208,me duele una pastilla,my a pill hurts,phrase
+w_0209,me duele agua,my water hurts,phrase
+w_0210,me duele descanso,my rest hurts,phrase
+w_0211,me duele una cita medica,my a doctor appointment hurts,phrase
+w_0212,me duele una receta,my a prescription hurts,phrase
+w_0213,me duele jarabe,my syrup hurts,phrase
+w_0214,me duele ejercicio,my exercise hurts,phrase
+w_0215,me duele ayuda,my help hurts,phrase
+w_0216,tengo dolor de la cabeza,I have head pain,phrase
+w_0217,tengo dolor de el estomago,I have stomach pain,phrase
+w_0218,tengo dolor de la espalda,I have back pain,phrase
+w_0219,tengo dolor de la pierna,I have leg pain,phrase
+w_0220,tengo dolor de la rodilla,I have knee pain,phrase
+w_0221,tengo dolor de el brazo,I have arm pain,phrase
+w_0222,tengo dolor de medicina,I have medicine pain,phrase
+w_0223,tengo dolor de una pastilla,I have a pill pain,phrase
+w_0224,tengo dolor de agua,I have water pain,phrase
+w_0225,tengo dolor de descanso,I have rest pain,phrase
+w_0226,tengo dolor de una cita medica,I have a doctor appointment pain,phrase
+w_0227,tengo dolor de una receta,I have a prescription pain,phrase
+w_0228,tengo dolor de jarabe,I have syrup pain,phrase
+w_0229,tengo dolor de ejercicio,I have exercise pain,phrase
+w_0230,tengo dolor de ayuda,I have help pain,phrase
+w_0231,quiero pedir la cabeza,I want to ask for head,phrase
+w_0232,quiero pedir el estomago,I want to ask for stomach,phrase
+w_0233,quiero pedir la espalda,I want to ask for back,phrase
+w_0234,quiero pedir la pierna,I want to ask for leg,phrase
+w_0235,quiero pedir la rodilla,I want to ask for knee,phrase
+w_0236,quiero pedir el brazo,I want to ask for arm,phrase
+w_0237,quiero pedir medicina,I want to ask for medicine,phrase
+w_0238,quiero pedir una pastilla,I want to ask for a pill,phrase
+w_0239,quiero pedir agua,I want to ask for water,phrase
+w_0240,quiero pedir descanso,I want to ask for rest,phrase
+w_0241,quiero pedir una cita medica,I want to ask for a doctor appointment,phrase
+w_0242,quiero pedir una receta,I want to ask for a prescription,phrase
+w_0243,quiero pedir jarabe,I want to ask for syrup,phrase
+w_0244,quiero pedir ejercicio,I want to ask for exercise,phrase
+w_0245,quiero pedir ayuda,I want to ask for help,phrase
+w_0246,me encuentro mejor,I feel better,phrase
+w_0247,me encuentro peor,I feel worse,phrase
+w_0248,me encuentro cansado,I feel tired,phrase
+w_0249,me encuentro mareado,I feel dizzy,phrase
+w_0250,me encuentro bien,I feel well,phrase
+w_0251,me encuentro mal,I feel bad,phrase
+w_0252,debo tomar la cabeza,I should take head,phrase
+w_0253,debo tomar el estomago,I should take stomach,phrase
+w_0254,debo tomar la espalda,I should take back,phrase
+w_0255,debo tomar la pierna,I should take leg,phrase
+w_0256,debo tomar la rodilla,I should take knee,phrase
+w_0257,debo tomar el brazo,I should take arm,phrase
+w_0258,debo tomar medicina,I should take medicine,phrase
+w_0259,debo tomar una pastilla,I should take a pill,phrase
+w_0260,debo tomar agua,I should take water,phrase
+w_0261,debo tomar descanso,I should take rest,phrase
+w_0262,debo tomar una cita medica,I should take a doctor appointment,phrase
+w_0263,debo tomar una receta,I should take a prescription,phrase
+w_0264,debo tomar jarabe,I should take syrup,phrase
+w_0265,debo tomar ejercicio,I should take exercise,phrase
+w_0266,debo tomar ayuda,I should take help,phrase

@@ -1,0 +1,664 @@
+id,spanish,english,type
+w_0001,hola,hello,word
+w_0002,adios,goodbye,word
+w_0003,hasta luego,see you later,word
+w_0004,por favor,please,word
+w_0005,gracias,thank you,word
+w_0006,de nada,you are welcome,word
+w_0007,lo siento,sorry,word
+w_0008,perdon,excuse me,word
+w_0009,si,yes,word
+w_0010,no,no,word
+w_0011,quizas,maybe,word
+w_0012,claro,of course,word
+w_0013,vale,okay,word
+w_0014,hoy,today,word
+w_0015,manana,tomorrow,word
+w_0016,ayer,yesterday,word
+w_0017,ahora,now,word
+w_0018,luego,later,word
+w_0019,siempre,always,word
+w_0020,nunca,never,word
+w_0021,a veces,sometimes,word
+w_0022,mucho,a lot,word
+w_0023,poco,a little,word
+w_0024,mas,more,word
+w_0025,menos,less,word
+w_0026,grande,big,word
+w_0027,pequeno,small,word
+w_0028,nuevo,new,word
+w_0029,viejo,old,word
+w_0030,bueno,good,word
+w_0031,malo,bad,word
+w_0032,facil,easy,word
+w_0033,dificil,difficult,word
+w_0034,rapido,fast,word
+w_0035,lento,slow,word
+w_0036,caliente,hot,word
+w_0037,frio,cold,word
+w_0038,amigo,friend,word
+w_0039,familia,family,word
+w_0040,casa,house,word
+w_0041,calle,street,word
+w_0042,coche,car,word
+w_0043,dinero,money,word
+w_0044,tiempo,time,word
+w_0045,nombre,name,word
+w_0046,pregunta,question,word
+w_0047,respuesta,answer,word
+w_0048,izquierda,left,word
+w_0049,derecha,right,word
+w_0050,arriba,up,word
+w_0051,abajo,down,word
+w_0052,cerca,near,word
+w_0053,lejos,far,word
+w_0054,primero,first,word
+w_0055,ultimo,last,word
+w_0056,antes,before,word
+w_0057,despues,after,word
+w_0058,porque,because,word
+w_0059,entonces,then,word
+w_0060,solo,only,word
+w_0061,tambien,also,word
+w_0062,nada,nothing,word
+w_0063,todo,everything,word
+w_0064,yo necesito ayuda,I need help,phrase
+w_0065,yo necesito agua,I need water,phrase
+w_0066,yo necesito informacion,I need information,phrase
+w_0067,yo necesito un descanso,I need a break,phrase
+w_0068,yo necesito el billete,I need the ticket,phrase
+w_0069,yo necesito la direccion,I need the address,phrase
+w_0070,yo necesito la clave,I need the password,phrase
+w_0071,yo necesito la respuesta,I need the answer,phrase
+w_0072,yo necesito el numero,I need the number,phrase
+w_0073,yo necesito el mapa,I need the map,phrase
+w_0074,yo quiero ayuda,I want help,phrase
+w_0075,yo quiero agua,I want water,phrase
+w_0076,yo quiero informacion,I want information,phrase
+w_0077,yo quiero un descanso,I want a break,phrase
+w_0078,yo quiero el billete,I want the ticket,phrase
+w_0079,yo quiero la direccion,I want the address,phrase
+w_0080,yo quiero la clave,I want the password,phrase
+w_0081,yo quiero la respuesta,I want the answer,phrase
+w_0082,yo quiero el numero,I want the number,phrase
+w_0083,yo quiero el mapa,I want the map,phrase
+w_0084,yo puedo ayuda,I can help,phrase
+w_0085,yo puedo agua,I can water,phrase
+w_0086,yo puedo informacion,I can information,phrase
+w_0087,yo puedo un descanso,I can a break,phrase
+w_0088,yo puedo el billete,I can the ticket,phrase
+w_0089,yo puedo la direccion,I can the address,phrase
+w_0090,yo puedo la clave,I can the password,phrase
+w_0091,yo puedo la respuesta,I can the answer,phrase
+w_0092,yo puedo el numero,I can the number,phrase
+w_0093,yo puedo el mapa,I can the map,phrase
+w_0094,yo debo ayuda,I must help,phrase
+w_0095,yo debo agua,I must water,phrase
+w_0096,yo debo informacion,I must information,phrase
+w_0097,yo debo un descanso,I must a break,phrase
+w_0098,yo debo el billete,I must the ticket,phrase
+w_0099,yo debo la direccion,I must the address,phrase
+w_0100,yo debo la clave,I must the password,phrase
+w_0101,yo debo la respuesta,I must the answer,phrase
+w_0102,yo debo el numero,I must the number,phrase
+w_0103,yo debo el mapa,I must the map,phrase
+w_0104,yo prefiero ayuda,I prefer help,phrase
+w_0105,yo prefiero agua,I prefer water,phrase
+w_0106,yo prefiero informacion,I prefer information,phrase
+w_0107,yo prefiero un descanso,I prefer a break,phrase
+w_0108,yo prefiero el billete,I prefer the ticket,phrase
+w_0109,yo prefiero la direccion,I prefer the address,phrase
+w_0110,yo prefiero la clave,I prefer the password,phrase
+w_0111,yo prefiero la respuesta,I prefer the answer,phrase
+w_0112,yo prefiero el numero,I prefer the number,phrase
+w_0113,yo prefiero el mapa,I prefer the map,phrase
+w_0114,yo entiendo ayuda,I understand help,phrase
+w_0115,yo entiendo agua,I understand water,phrase
+w_0116,yo entiendo informacion,I understand information,phrase
+w_0117,yo entiendo un descanso,I understand a break,phrase
+w_0118,yo entiendo el billete,I understand the ticket,phrase
+w_0119,yo entiendo la direccion,I understand the address,phrase
+w_0120,yo entiendo la clave,I understand the password,phrase
+w_0121,yo entiendo la respuesta,I understand the answer,phrase
+w_0122,yo entiendo el numero,I understand the number,phrase
+w_0123,yo entiendo el mapa,I understand the map,phrase
+w_0124,yo busco ayuda,I am looking for help,phrase
+w_0125,yo busco agua,I am looking for water,phrase
+w_0126,yo busco informacion,I am looking for information,phrase
+w_0127,yo busco un descanso,I am looking for a break,phrase
+w_0128,yo busco el billete,I am looking for the ticket,phrase
+w_0129,yo busco la direccion,I am looking for the address,phrase
+w_0130,yo busco la clave,I am looking for the password,phrase
+w_0131,yo busco la respuesta,I am looking for the answer,phrase
+w_0132,yo busco el numero,I am looking for the number,phrase
+w_0133,yo busco el mapa,I am looking for the map,phrase
+w_0134,yo recuerdo ayuda,I remember help,phrase
+w_0135,yo recuerdo agua,I remember water,phrase
+w_0136,yo recuerdo informacion,I remember information,phrase
+w_0137,yo recuerdo un descanso,I remember a break,phrase
+w_0138,yo recuerdo el billete,I remember the ticket,phrase
+w_0139,yo recuerdo la direccion,I remember the address,phrase
+w_0140,yo recuerdo la clave,I remember the password,phrase
+w_0141,yo recuerdo la respuesta,I remember the answer,phrase
+w_0142,yo recuerdo el numero,I remember the number,phrase
+w_0143,yo recuerdo el mapa,I remember the map,phrase
+w_0144,yo olvido ayuda,I forget help,phrase
+w_0145,yo olvido agua,I forget water,phrase
+w_0146,yo olvido informacion,I forget information,phrase
+w_0147,yo olvido un descanso,I forget a break,phrase
+w_0148,yo olvido el billete,I forget the ticket,phrase
+w_0149,yo olvido la direccion,I forget the address,phrase
+w_0150,yo olvido la clave,I forget the password,phrase
+w_0151,yo olvido la respuesta,I forget the answer,phrase
+w_0152,yo olvido el numero,I forget the number,phrase
+w_0153,yo olvido el mapa,I forget the map,phrase
+w_0154,yo aprendo ayuda,I learn help,phrase
+w_0155,yo aprendo agua,I learn water,phrase
+w_0156,yo aprendo informacion,I learn information,phrase
+w_0157,yo aprendo un descanso,I learn a break,phrase
+w_0158,yo aprendo el billete,I learn the ticket,phrase
+w_0159,yo aprendo la direccion,I learn the address,phrase
+w_0160,yo aprendo la clave,I learn the password,phrase
+w_0161,yo aprendo la respuesta,I learn the answer,phrase
+w_0162,yo aprendo el numero,I learn the number,phrase
+w_0163,yo aprendo el mapa,I learn the map,phrase
+w_0164,tu necesito ayuda,you need help,phrase
+w_0165,tu necesito agua,you need water,phrase
+w_0166,tu necesito informacion,you need information,phrase
+w_0167,tu necesito un descanso,you need a break,phrase
+w_0168,tu necesito el billete,you need the ticket,phrase
+w_0169,tu necesito la direccion,you need the address,phrase
+w_0170,tu necesito la clave,you need the password,phrase
+w_0171,tu necesito la respuesta,you need the answer,phrase
+w_0172,tu necesito el numero,you need the number,phrase
+w_0173,tu necesito el mapa,you need the map,phrase
+w_0174,tu quiero ayuda,you want help,phrase
+w_0175,tu quiero agua,you want water,phrase
+w_0176,tu quiero informacion,you want information,phrase
+w_0177,tu quiero un descanso,you want a break,phrase
+w_0178,tu quiero el billete,you want the ticket,phrase
+w_0179,tu quiero la direccion,you want the address,phrase
+w_0180,tu quiero la clave,you want the password,phrase
+w_0181,tu quiero la respuesta,you want the answer,phrase
+w_0182,tu quiero el numero,you want the number,phrase
+w_0183,tu quiero el mapa,you want the map,phrase
+w_0184,tu puedo ayuda,you can help,phrase
+w_0185,tu puedo agua,you can water,phrase
+w_0186,tu puedo informacion,you can information,phrase
+w_0187,tu puedo un descanso,you can a break,phrase
+w_0188,tu puedo el billete,you can the ticket,phrase
+w_0189,tu puedo la direccion,you can the address,phrase
+w_0190,tu puedo la clave,you can the password,phrase
+w_0191,tu puedo la respuesta,you can the answer,phrase
+w_0192,tu puedo el numero,you can the number,phrase
+w_0193,tu puedo el mapa,you can the map,phrase
+w_0194,tu debo ayuda,you must help,phrase
+w_0195,tu debo agua,you must water,phrase
+w_0196,tu debo informacion,you must information,phrase
+w_0197,tu debo un descanso,you must a break,phrase
+w_0198,tu debo el billete,you must the ticket,phrase
+w_0199,tu debo la direccion,you must the address,phrase
+w_0200,tu debo la clave,you must the password,phrase
+w_0201,tu debo la respuesta,you must the answer,phrase
+w_0202,tu debo el numero,you must the number,phrase
+w_0203,tu debo el mapa,you must the map,phrase
+w_0204,tu prefiero ayuda,you prefer help,phrase
+w_0205,tu prefiero agua,you prefer water,phrase
+w_0206,tu prefiero informacion,you prefer information,phrase
+w_0207,tu prefiero un descanso,you prefer a break,phrase
+w_0208,tu prefiero el billete,you prefer the ticket,phrase
+w_0209,tu prefiero la direccion,you prefer the address,phrase
+w_0210,tu prefiero la clave,you prefer the password,phrase
+w_0211,tu prefiero la respuesta,you prefer the answer,phrase
+w_0212,tu prefiero el numero,you prefer the number,phrase
+w_0213,tu prefiero el mapa,you prefer the map,phrase
+w_0214,tu entiendo ayuda,you understand help,phrase
+w_0215,tu entiendo agua,you understand water,phrase
+w_0216,tu entiendo informacion,you understand information,phrase
+w_0217,tu entiendo un descanso,you understand a break,phrase
+w_0218,tu entiendo el billete,you understand the ticket,phrase
+w_0219,tu entiendo la direccion,you understand the address,phrase
+w_0220,tu entiendo la clave,you understand the password,phrase
+w_0221,tu entiendo la respuesta,you understand the answer,phrase
+w_0222,tu entiendo el numero,you understand the number,phrase
+w_0223,tu entiendo el mapa,you understand the map,phrase
+w_0224,tu busco ayuda,you am looking for help,phrase
+w_0225,tu busco agua,you am looking for water,phrase
+w_0226,tu busco informacion,you am looking for information,phrase
+w_0227,tu busco un descanso,you am looking for a break,phrase
+w_0228,tu busco el billete,you am looking for the ticket,phrase
+w_0229,tu busco la direccion,you am looking for the address,phrase
+w_0230,tu busco la clave,you am looking for the password,phrase
+w_0231,tu busco la respuesta,you am looking for the answer,phrase
+w_0232,tu busco el numero,you am looking for the number,phrase
+w_0233,tu busco el mapa,you am looking for the map,phrase
+w_0234,tu recuerdo ayuda,you remember help,phrase
+w_0235,tu recuerdo agua,you remember water,phrase
+w_0236,tu recuerdo informacion,you remember information,phrase
+w_0237,tu recuerdo un descanso,you remember a break,phrase
+w_0238,tu recuerdo el billete,you remember the ticket,phrase
+w_0239,tu recuerdo la direccion,you remember the address,phrase
+w_0240,tu recuerdo la clave,you remember the password,phrase
+w_0241,tu recuerdo la respuesta,you remember the answer,phrase
+w_0242,tu recuerdo el numero,you remember the number,phrase
+w_0243,tu recuerdo el mapa,you remember the map,phrase
+w_0244,tu olvido ayuda,you forget help,phrase
+w_0245,tu olvido agua,you forget water,phrase
+w_0246,tu olvido informacion,you forget information,phrase
+w_0247,tu olvido un descanso,you forget a break,phrase
+w_0248,tu olvido el billete,you forget the ticket,phrase
+w_0249,tu olvido la direccion,you forget the address,phrase
+w_0250,tu olvido la clave,you forget the password,phrase
+w_0251,tu olvido la respuesta,you forget the answer,phrase
+w_0252,tu olvido el numero,you forget the number,phrase
+w_0253,tu olvido el mapa,you forget the map,phrase
+w_0254,tu aprendo ayuda,you learn help,phrase
+w_0255,tu aprendo agua,you learn water,phrase
+w_0256,tu aprendo informacion,you learn information,phrase
+w_0257,tu aprendo un descanso,you learn a break,phrase
+w_0258,tu aprendo el billete,you learn the ticket,phrase
+w_0259,tu aprendo la direccion,you learn the address,phrase
+w_0260,tu aprendo la clave,you learn the password,phrase
+w_0261,tu aprendo la respuesta,you learn the answer,phrase
+w_0262,tu aprendo el numero,you learn the number,phrase
+w_0263,tu aprendo el mapa,you learn the map,phrase
+w_0264,usted necesito ayuda,you (formal) need help,phrase
+w_0265,usted necesito agua,you (formal) need water,phrase
+w_0266,usted necesito informacion,you (formal) need information,phrase
+w_0267,usted necesito un descanso,you (formal) need a break,phrase
+w_0268,usted necesito el billete,you (formal) need the ticket,phrase
+w_0269,usted necesito la direccion,you (formal) need the address,phrase
+w_0270,usted necesito la clave,you (formal) need the password,phrase
+w_0271,usted necesito la respuesta,you (formal) need the answer,phrase
+w_0272,usted necesito el numero,you (formal) need the number,phrase
+w_0273,usted necesito el mapa,you (formal) need the map,phrase
+w_0274,usted quiero ayuda,you (formal) want help,phrase
+w_0275,usted quiero agua,you (formal) want water,phrase
+w_0276,usted quiero informacion,you (formal) want information,phrase
+w_0277,usted quiero un descanso,you (formal) want a break,phrase
+w_0278,usted quiero el billete,you (formal) want the ticket,phrase
+w_0279,usted quiero la direccion,you (formal) want the address,phrase
+w_0280,usted quiero la clave,you (formal) want the password,phrase
+w_0281,usted quiero la respuesta,you (formal) want the answer,phrase
+w_0282,usted quiero el numero,you (formal) want the number,phrase
+w_0283,usted quiero el mapa,you (formal) want the map,phrase
+w_0284,usted puedo ayuda,you (formal) can help,phrase
+w_0285,usted puedo agua,you (formal) can water,phrase
+w_0286,usted puedo informacion,you (formal) can information,phrase
+w_0287,usted puedo un descanso,you (formal) can a break,phrase
+w_0288,usted puedo el billete,you (formal) can the ticket,phrase
+w_0289,usted puedo la direccion,you (formal) can the address,phrase
+w_0290,usted puedo la clave,you (formal) can the password,phrase
+w_0291,usted puedo la respuesta,you (formal) can the answer,phrase
+w_0292,usted puedo el numero,you (formal) can the number,phrase
+w_0293,usted puedo el mapa,you (formal) can the map,phrase
+w_0294,usted debo ayuda,you (formal) must help,phrase
+w_0295,usted debo agua,you (formal) must water,phrase
+w_0296,usted debo informacion,you (formal) must information,phrase
+w_0297,usted debo un descanso,you (formal) must a break,phrase
+w_0298,usted debo el billete,you (formal) must the ticket,phrase
+w_0299,usted debo la direccion,you (formal) must the address,phrase
+w_0300,usted debo la clave,you (formal) must the password,phrase
+w_0301,usted debo la respuesta,you (formal) must the answer,phrase
+w_0302,usted debo el numero,you (formal) must the number,phrase
+w_0303,usted debo el mapa,you (formal) must the map,phrase
+w_0304,usted prefiero ayuda,you (formal) prefer help,phrase
+w_0305,usted prefiero agua,you (formal) prefer water,phrase
+w_0306,usted prefiero informacion,you (formal) prefer information,phrase
+w_0307,usted prefiero un descanso,you (formal) prefer a break,phrase
+w_0308,usted prefiero el billete,you (formal) prefer the ticket,phrase
+w_0309,usted prefiero la direccion,you (formal) prefer the address,phrase
+w_0310,usted prefiero la clave,you (formal) prefer the password,phrase
+w_0311,usted prefiero la respuesta,you (formal) prefer the answer,phrase
+w_0312,usted prefiero el numero,you (formal) prefer the number,phrase
+w_0313,usted prefiero el mapa,you (formal) prefer the map,phrase
+w_0314,usted entiendo ayuda,you (formal) understand help,phrase
+w_0315,usted entiendo agua,you (formal) understand water,phrase
+w_0316,usted entiendo informacion,you (formal) understand information,phrase
+w_0317,usted entiendo un descanso,you (formal) understand a break,phrase
+w_0318,usted entiendo el billete,you (formal) understand the ticket,phrase
+w_0319,usted entiendo la direccion,you (formal) understand the address,phrase
+w_0320,usted entiendo la clave,you (formal) understand the password,phrase
+w_0321,usted entiendo la respuesta,you (formal) understand the answer,phrase
+w_0322,usted entiendo el numero,you (formal) understand the number,phrase
+w_0323,usted entiendo el mapa,you (formal) understand the map,phrase
+w_0324,usted busco ayuda,you (formal) am looking for help,phrase
+w_0325,usted busco agua,you (formal) am looking for water,phrase
+w_0326,usted busco informacion,you (formal) am looking for information,phrase
+w_0327,usted busco un descanso,you (formal) am looking for a break,phrase
+w_0328,usted busco el billete,you (formal) am looking for the ticket,phrase
+w_0329,usted busco la direccion,you (formal) am looking for the address,phrase
+w_0330,usted busco la clave,you (formal) am looking for the password,phrase
+w_0331,usted busco la respuesta,you (formal) am looking for the answer,phrase
+w_0332,usted busco el numero,you (formal) am looking for the number,phrase
+w_0333,usted busco el mapa,you (formal) am looking for the map,phrase
+w_0334,usted recuerdo ayuda,you (formal) remember help,phrase
+w_0335,usted recuerdo agua,you (formal) remember water,phrase
+w_0336,usted recuerdo informacion,you (formal) remember information,phrase
+w_0337,usted recuerdo un descanso,you (formal) remember a break,phrase
+w_0338,usted recuerdo el billete,you (formal) remember the ticket,phrase
+w_0339,usted recuerdo la direccion,you (formal) remember the address,phrase
+w_0340,usted recuerdo la clave,you (formal) remember the password,phrase
+w_0341,usted recuerdo la respuesta,you (formal) remember the answer,phrase
+w_0342,usted recuerdo el numero,you (formal) remember the number,phrase
+w_0343,usted recuerdo el mapa,you (formal) remember the map,phrase
+w_0344,usted olvido ayuda,you (formal) forget help,phrase
+w_0345,usted olvido agua,you (formal) forget water,phrase
+w_0346,usted olvido informacion,you (formal) forget information,phrase
+w_0347,usted olvido un descanso,you (formal) forget a break,phrase
+w_0348,usted olvido el billete,you (formal) forget the ticket,phrase
+w_0349,usted olvido la direccion,you (formal) forget the address,phrase
+w_0350,usted olvido la clave,you (formal) forget the password,phrase
+w_0351,usted olvido la respuesta,you (formal) forget the answer,phrase
+w_0352,usted olvido el numero,you (formal) forget the number,phrase
+w_0353,usted olvido el mapa,you (formal) forget the map,phrase
+w_0354,usted aprendo ayuda,you (formal) learn help,phrase
+w_0355,usted aprendo agua,you (formal) learn water,phrase
+w_0356,usted aprendo informacion,you (formal) learn information,phrase
+w_0357,usted aprendo un descanso,you (formal) learn a break,phrase
+w_0358,usted aprendo el billete,you (formal) learn the ticket,phrase
+w_0359,usted aprendo la direccion,you (formal) learn the address,phrase
+w_0360,usted aprendo la clave,you (formal) learn the password,phrase
+w_0361,usted aprendo la respuesta,you (formal) learn the answer,phrase
+w_0362,usted aprendo el numero,you (formal) learn the number,phrase
+w_0363,usted aprendo el mapa,you (formal) learn the map,phrase
+w_0364,nosotros necesito ayuda,we need help,phrase
+w_0365,nosotros necesito agua,we need water,phrase
+w_0366,nosotros necesito informacion,we need information,phrase
+w_0367,nosotros necesito un descanso,we need a break,phrase
+w_0368,nosotros necesito el billete,we need the ticket,phrase
+w_0369,nosotros necesito la direccion,we need the address,phrase
+w_0370,nosotros necesito la clave,we need the password,phrase
+w_0371,nosotros necesito la respuesta,we need the answer,phrase
+w_0372,nosotros necesito el numero,we need the number,phrase
+w_0373,nosotros necesito el mapa,we need the map,phrase
+w_0374,nosotros quiero ayuda,we want help,phrase
+w_0375,nosotros quiero agua,we want water,phrase
+w_0376,nosotros quiero informacion,we want information,phrase
+w_0377,nosotros quiero un descanso,we want a break,phrase
+w_0378,nosotros quiero el billete,we want the ticket,phrase
+w_0379,nosotros quiero la direccion,we want the address,phrase
+w_0380,nosotros quiero la clave,we want the password,phrase
+w_0381,nosotros quiero la respuesta,we want the answer,phrase
+w_0382,nosotros quiero el numero,we want the number,phrase
+w_0383,nosotros quiero el mapa,we want the map,phrase
+w_0384,nosotros puedo ayuda,we can help,phrase
+w_0385,nosotros puedo agua,we can water,phrase
+w_0386,nosotros puedo informacion,we can information,phrase
+w_0387,nosotros puedo un descanso,we can a break,phrase
+w_0388,nosotros puedo el billete,we can the ticket,phrase
+w_0389,nosotros puedo la direccion,we can the address,phrase
+w_0390,nosotros puedo la clave,we can the password,phrase
+w_0391,nosotros puedo la respuesta,we can the answer,phrase
+w_0392,nosotros puedo el numero,we can the number,phrase
+w_0393,nosotros puedo el mapa,we can the map,phrase
+w_0394,nosotros debo ayuda,we must help,phrase
+w_0395,nosotros debo agua,we must water,phrase
+w_0396,nosotros debo informacion,we must information,phrase
+w_0397,nosotros debo un descanso,we must a break,phrase
+w_0398,nosotros debo el billete,we must the ticket,phrase
+w_0399,nosotros debo la direccion,we must the address,phrase
+w_0400,nosotros debo la clave,we must the password,phrase
+w_0401,nosotros debo la respuesta,we must the answer,phrase
+w_0402,nosotros debo el numero,we must the number,phrase
+w_0403,nosotros debo el mapa,we must the map,phrase
+w_0404,nosotros prefiero ayuda,we prefer help,phrase
+w_0405,nosotros prefiero agua,we prefer water,phrase
+w_0406,nosotros prefiero informacion,we prefer information,phrase
+w_0407,nosotros prefiero un descanso,we prefer a break,phrase
+w_0408,nosotros prefiero el billete,we prefer the ticket,phrase
+w_0409,nosotros prefiero la direccion,we prefer the address,phrase
+w_0410,nosotros prefiero la clave,we prefer the password,phrase
+w_0411,nosotros prefiero la respuesta,we prefer the answer,phrase
+w_0412,nosotros prefiero el numero,we prefer the number,phrase
+w_0413,nosotros prefiero el mapa,we prefer the map,phrase
+w_0414,nosotros entiendo ayuda,we understand help,phrase
+w_0415,nosotros entiendo agua,we understand water,phrase
+w_0416,nosotros entiendo informacion,we understand information,phrase
+w_0417,nosotros entiendo un descanso,we understand a break,phrase
+w_0418,nosotros entiendo el billete,we understand the ticket,phrase
+w_0419,nosotros entiendo la direccion,we understand the address,phrase
+w_0420,nosotros entiendo la clave,we understand the password,phrase
+w_0421,nosotros entiendo la respuesta,we understand the answer,phrase
+w_0422,nosotros entiendo el numero,we understand the number,phrase
+w_0423,nosotros entiendo el mapa,we understand the map,phrase
+w_0424,nosotros busco ayuda,we am looking for help,phrase
+w_0425,nosotros busco agua,we am looking for water,phrase
+w_0426,nosotros busco informacion,we am looking for information,phrase
+w_0427,nosotros busco un descanso,we am looking for a break,phrase
+w_0428,nosotros busco el billete,we am looking for the ticket,phrase
+w_0429,nosotros busco la direccion,we am looking for the address,phrase
+w_0430,nosotros busco la clave,we am looking for the password,phrase
+w_0431,nosotros busco la respuesta,we am looking for the answer,phrase
+w_0432,nosotros busco el numero,we am looking for the number,phrase
+w_0433,nosotros busco el mapa,we am looking for the map,phrase
+w_0434,nosotros recuerdo ayuda,we remember help,phrase
+w_0435,nosotros recuerdo agua,we remember water,phrase
+w_0436,nosotros recuerdo informacion,we remember information,phrase
+w_0437,nosotros recuerdo un descanso,we remember a break,phrase
+w_0438,nosotros recuerdo el billete,we remember the ticket,phrase
+w_0439,nosotros recuerdo la direccion,we remember the address,phrase
+w_0440,nosotros recuerdo la clave,we remember the password,phrase
+w_0441,nosotros recuerdo la respuesta,we remember the answer,phrase
+w_0442,nosotros recuerdo el numero,we remember the number,phrase
+w_0443,nosotros recuerdo el mapa,we remember the map,phrase
+w_0444,nosotros olvido ayuda,we forget help,phrase
+w_0445,nosotros olvido agua,we forget water,phrase
+w_0446,nosotros olvido informacion,we forget information,phrase
+w_0447,nosotros olvido un descanso,we forget a break,phrase
+w_0448,nosotros olvido el billete,we forget the ticket,phrase
+w_0449,nosotros olvido la direccion,we forget the address,phrase
+w_0450,nosotros olvido la clave,we forget the password,phrase
+w_0451,nosotros olvido la respuesta,we forget the answer,phrase
+w_0452,nosotros olvido el numero,we forget the number,phrase
+w_0453,nosotros olvido el mapa,we forget the map,phrase
+w_0454,nosotros aprendo ayuda,we learn help,phrase
+w_0455,nosotros aprendo agua,we learn water,phrase
+w_0456,nosotros aprendo informacion,we learn information,phrase
+w_0457,nosotros aprendo un descanso,we learn a break,phrase
+w_0458,nosotros aprendo el billete,we learn the ticket,phrase
+w_0459,nosotros aprendo la direccion,we learn the address,phrase
+w_0460,nosotros aprendo la clave,we learn the password,phrase
+w_0461,nosotros aprendo la respuesta,we learn the answer,phrase
+w_0462,nosotros aprendo el numero,we learn the number,phrase
+w_0463,nosotros aprendo el mapa,we learn the map,phrase
+w_0464,vosotros necesito ayuda,you all need help,phrase
+w_0465,vosotros necesito agua,you all need water,phrase
+w_0466,vosotros necesito informacion,you all need information,phrase
+w_0467,vosotros necesito un descanso,you all need a break,phrase
+w_0468,vosotros necesito el billete,you all need the ticket,phrase
+w_0469,vosotros necesito la direccion,you all need the address,phrase
+w_0470,vosotros necesito la clave,you all need the password,phrase
+w_0471,vosotros necesito la respuesta,you all need the answer,phrase
+w_0472,vosotros necesito el numero,you all need the number,phrase
+w_0473,vosotros necesito el mapa,you all need the map,phrase
+w_0474,vosotros quiero ayuda,you all want help,phrase
+w_0475,vosotros quiero agua,you all want water,phrase
+w_0476,vosotros quiero informacion,you all want information,phrase
+w_0477,vosotros quiero un descanso,you all want a break,phrase
+w_0478,vosotros quiero el billete,you all want the ticket,phrase
+w_0479,vosotros quiero la direccion,you all want the address,phrase
+w_0480,vosotros quiero la clave,you all want the password,phrase
+w_0481,vosotros quiero la respuesta,you all want the answer,phrase
+w_0482,vosotros quiero el numero,you all want the number,phrase
+w_0483,vosotros quiero el mapa,you all want the map,phrase
+w_0484,vosotros puedo ayuda,you all can help,phrase
+w_0485,vosotros puedo agua,you all can water,phrase
+w_0486,vosotros puedo informacion,you all can information,phrase
+w_0487,vosotros puedo un descanso,you all can a break,phrase
+w_0488,vosotros puedo el billete,you all can the ticket,phrase
+w_0489,vosotros puedo la direccion,you all can the address,phrase
+w_0490,vosotros puedo la clave,you all can the password,phrase
+w_0491,vosotros puedo la respuesta,you all can the answer,phrase
+w_0492,vosotros puedo el numero,you all can the number,phrase
+w_0493,vosotros puedo el mapa,you all can the map,phrase
+w_0494,vosotros debo ayuda,you all must help,phrase
+w_0495,vosotros debo agua,you all must water,phrase
+w_0496,vosotros debo informacion,you all must information,phrase
+w_0497,vosotros debo un descanso,you all must a break,phrase
+w_0498,vosotros debo el billete,you all must the ticket,phrase
+w_0499,vosotros debo la direccion,you all must the address,phrase
+w_0500,vosotros debo la clave,you all must the password,phrase
+w_0501,vosotros debo la respuesta,you all must the answer,phrase
+w_0502,vosotros debo el numero,you all must the number,phrase
+w_0503,vosotros debo el mapa,you all must the map,phrase
+w_0504,vosotros prefiero ayuda,you all prefer help,phrase
+w_0505,vosotros prefiero agua,you all prefer water,phrase
+w_0506,vosotros prefiero informacion,you all prefer information,phrase
+w_0507,vosotros prefiero un descanso,you all prefer a break,phrase
+w_0508,vosotros prefiero el billete,you all prefer the ticket,phrase
+w_0509,vosotros prefiero la direccion,you all prefer the address,phrase
+w_0510,vosotros prefiero la clave,you all prefer the password,phrase
+w_0511,vosotros prefiero la respuesta,you all prefer the answer,phrase
+w_0512,vosotros prefiero el numero,you all prefer the number,phrase
+w_0513,vosotros prefiero el mapa,you all prefer the map,phrase
+w_0514,vosotros entiendo ayuda,you all understand help,phrase
+w_0515,vosotros entiendo agua,you all understand water,phrase
+w_0516,vosotros entiendo informacion,you all understand information,phrase
+w_0517,vosotros entiendo un descanso,you all understand a break,phrase
+w_0518,vosotros entiendo el billete,you all understand the ticket,phrase
+w_0519,vosotros entiendo la direccion,you all understand the address,phrase
+w_0520,vosotros entiendo la clave,you all understand the password,phrase
+w_0521,vosotros entiendo la respuesta,you all understand the answer,phrase
+w_0522,vosotros entiendo el numero,you all understand the number,phrase
+w_0523,vosotros entiendo el mapa,you all understand the map,phrase
+w_0524,vosotros busco ayuda,you all am looking for help,phrase
+w_0525,vosotros busco agua,you all am looking for water,phrase
+w_0526,vosotros busco informacion,you all am looking for information,phrase
+w_0527,vosotros busco un descanso,you all am looking for a break,phrase
+w_0528,vosotros busco el billete,you all am looking for the ticket,phrase
+w_0529,vosotros busco la direccion,you all am looking for the address,phrase
+w_0530,vosotros busco la clave,you all am looking for the password,phrase
+w_0531,vosotros busco la respuesta,you all am looking for the answer,phrase
+w_0532,vosotros busco el numero,you all am looking for the number,phrase
+w_0533,vosotros busco el mapa,you all am looking for the map,phrase
+w_0534,vosotros recuerdo ayuda,you all remember help,phrase
+w_0535,vosotros recuerdo agua,you all remember water,phrase
+w_0536,vosotros recuerdo informacion,you all remember information,phrase
+w_0537,vosotros recuerdo un descanso,you all remember a break,phrase
+w_0538,vosotros recuerdo el billete,you all remember the ticket,phrase
+w_0539,vosotros recuerdo la direccion,you all remember the address,phrase
+w_0540,vosotros recuerdo la clave,you all remember the password,phrase
+w_0541,vosotros recuerdo la respuesta,you all remember the answer,phrase
+w_0542,vosotros recuerdo el numero,you all remember the number,phrase
+w_0543,vosotros recuerdo el mapa,you all remember the map,phrase
+w_0544,vosotros olvido ayuda,you all forget help,phrase
+w_0545,vosotros olvido agua,you all forget water,phrase
+w_0546,vosotros olvido informacion,you all forget information,phrase
+w_0547,vosotros olvido un descanso,you all forget a break,phrase
+w_0548,vosotros olvido el billete,you all forget the ticket,phrase
+w_0549,vosotros olvido la direccion,you all forget the address,phrase
+w_0550,vosotros olvido la clave,you all forget the password,phrase
+w_0551,vosotros olvido la respuesta,you all forget the answer,phrase
+w_0552,vosotros olvido el numero,you all forget the number,phrase
+w_0553,vosotros olvido el mapa,you all forget the map,phrase
+w_0554,vosotros aprendo ayuda,you all learn help,phrase
+w_0555,vosotros aprendo agua,you all learn water,phrase
+w_0556,vosotros aprendo informacion,you all learn information,phrase
+w_0557,vosotros aprendo un descanso,you all learn a break,phrase
+w_0558,vosotros aprendo el billete,you all learn the ticket,phrase
+w_0559,vosotros aprendo la direccion,you all learn the address,phrase
+w_0560,vosotros aprendo la clave,you all learn the password,phrase
+w_0561,vosotros aprendo la respuesta,you all learn the answer,phrase
+w_0562,vosotros aprendo el numero,you all learn the number,phrase
+w_0563,vosotros aprendo el mapa,you all learn the map,phrase
+w_0564,ellos necesito ayuda,they need help,phrase
+w_0565,ellos necesito agua,they need water,phrase
+w_0566,ellos necesito informacion,they need information,phrase
+w_0567,ellos necesito un descanso,they need a break,phrase
+w_0568,ellos necesito el billete,they need the ticket,phrase
+w_0569,ellos necesito la direccion,they need the address,phrase
+w_0570,ellos necesito la clave,they need the password,phrase
+w_0571,ellos necesito la respuesta,they need the answer,phrase
+w_0572,ellos necesito el numero,they need the number,phrase
+w_0573,ellos necesito el mapa,they need the map,phrase
+w_0574,ellos quiero ayuda,they want help,phrase
+w_0575,ellos quiero agua,they want water,phrase
+w_0576,ellos quiero informacion,they want information,phrase
+w_0577,ellos quiero un descanso,they want a break,phrase
+w_0578,ellos quiero el billete,they want the ticket,phrase
+w_0579,ellos quiero la direccion,they want the address,phrase
+w_0580,ellos quiero la clave,they want the password,phrase
+w_0581,ellos quiero la respuesta,they want the answer,phrase
+w_0582,ellos quiero el numero,they want the number,phrase
+w_0583,ellos quiero el mapa,they want the map,phrase
+w_0584,ellos puedo ayuda,they can help,phrase
+w_0585,ellos puedo agua,they can water,phrase
+w_0586,ellos puedo informacion,they can information,phrase
+w_0587,ellos puedo un descanso,they can a break,phrase
+w_0588,ellos puedo el billete,they can the ticket,phrase
+w_0589,ellos puedo la direccion,they can the address,phrase
+w_0590,ellos puedo la clave,they can the password,phrase
+w_0591,ellos puedo la respuesta,they can the answer,phrase
+w_0592,ellos puedo el numero,they can the number,phrase
+w_0593,ellos puedo el mapa,they can the map,phrase
+w_0594,ellos debo ayuda,they must help,phrase
+w_0595,ellos debo agua,they must water,phrase
+w_0596,ellos debo informacion,they must information,phrase
+w_0597,ellos debo un descanso,they must a break,phrase
+w_0598,ellos debo el billete,they must the ticket,phrase
+w_0599,ellos debo la direccion,they must the address,phrase
+w_0600,ellos debo la clave,they must the password,phrase
+w_0601,ellos debo la respuesta,they must the answer,phrase
+w_0602,ellos debo el numero,they must the number,phrase
+w_0603,ellos debo el mapa,they must the map,phrase
+w_0604,ellos prefiero ayuda,they prefer help,phrase
+w_0605,ellos prefiero agua,they prefer water,phrase
+w_0606,ellos prefiero informacion,they prefer information,phrase
+w_0607,ellos prefiero un descanso,they prefer a break,phrase
+w_0608,ellos prefiero el billete,they prefer the ticket,phrase
+w_0609,ellos prefiero la direccion,they prefer the address,phrase
+w_0610,ellos prefiero la clave,they prefer the password,phrase
+w_0611,ellos prefiero la respuesta,they prefer the answer,phrase
+w_0612,ellos prefiero el numero,they prefer the number,phrase
+w_0613,ellos prefiero el mapa,they prefer the map,phrase
+w_0614,ellos entiendo ayuda,they understand help,phrase
+w_0615,ellos entiendo agua,they understand water,phrase
+w_0616,ellos entiendo informacion,they understand information,phrase
+w_0617,ellos entiendo un descanso,they understand a break,phrase
+w_0618,ellos entiendo el billete,they understand the ticket,phrase
+w_0619,ellos entiendo la direccion,they understand the address,phrase
+w_0620,ellos entiendo la clave,they understand the password,phrase
+w_0621,ellos entiendo la respuesta,they understand the answer,phrase
+w_0622,ellos entiendo el numero,they understand the number,phrase
+w_0623,ellos entiendo el mapa,they understand the map,phrase
+w_0624,ellos busco ayuda,they am looking for help,phrase
+w_0625,ellos busco agua,they am looking for water,phrase
+w_0626,ellos busco informacion,they am looking for information,phrase
+w_0627,ellos busco un descanso,they am looking for a break,phrase
+w_0628,ellos busco el billete,they am looking for the ticket,phrase
+w_0629,ellos busco la direccion,they am looking for the address,phrase
+w_0630,ellos busco la clave,they am looking for the password,phrase
+w_0631,ellos busco la respuesta,they am looking for the answer,phrase
+w_0632,ellos busco el numero,they am looking for the number,phrase
+w_0633,ellos busco el mapa,they am looking for the map,phrase
+w_0634,ellos recuerdo ayuda,they remember help,phrase
+w_0635,ellos recuerdo agua,they remember water,phrase
+w_0636,ellos recuerdo informacion,they remember information,phrase
+w_0637,ellos recuerdo un descanso,they remember a break,phrase
+w_0638,ellos recuerdo el billete,they remember the ticket,phrase
+w_0639,ellos recuerdo la direccion,they remember the address,phrase
+w_0640,ellos recuerdo la clave,they remember the password,phrase
+w_0641,ellos recuerdo la respuesta,they remember the answer,phrase
+w_0642,ellos recuerdo el numero,they remember the number,phrase
+w_0643,ellos recuerdo el mapa,they remember the map,phrase
+w_0644,ellos olvido ayuda,they forget help,phrase
+w_0645,ellos olvido agua,they forget water,phrase
+w_0646,ellos olvido informacion,they forget information,phrase
+w_0647,ellos olvido un descanso,they forget a break,phrase
+w_0648,ellos olvido el billete,they forget the ticket,phrase
+w_0649,ellos olvido la direccion,they forget the address,phrase
+w_0650,ellos olvido la clave,they forget the password,phrase
+w_0651,ellos olvido la respuesta,they forget the answer,phrase
+w_0652,ellos olvido el numero,they forget the number,phrase
+w_0653,ellos olvido el mapa,they forget the map,phrase
+w_0654,ellos aprendo ayuda,they learn help,phrase
+w_0655,ellos aprendo agua,they learn water,phrase
+w_0656,ellos aprendo informacion,they learn information,phrase
+w_0657,ellos aprendo un descanso,they learn a break,phrase
+w_0658,ellos aprendo el billete,they learn the ticket,phrase
+w_0659,ellos aprendo la direccion,they learn the address,phrase
+w_0660,ellos aprendo la clave,they learn the password,phrase
+w_0661,ellos aprendo la respuesta,they learn the answer,phrase
+w_0662,ellos aprendo el numero,they learn the number,phrase
+w_0663,ellos aprendo el mapa,they learn the map,phrase

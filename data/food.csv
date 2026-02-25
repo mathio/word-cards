@@ -1,0 +1,201 @@
+id,spanish,english,type
+w_0001,pan,bread,word
+w_0002,arroz,rice,word
+w_0003,pasta,pasta,word
+w_0004,huevo,egg,word
+w_0005,queso,cheese,word
+w_0006,leche,milk,word
+w_0007,mantequilla,butter,word
+w_0008,aceite,oil,word
+w_0009,sal,salt,word
+w_0010,azucar,sugar,word
+w_0011,pimienta,pepper,word
+w_0012,pollo,chicken,word
+w_0013,ternera,beef,word
+w_0014,cerdo,pork,word
+w_0015,pescado,fish,word
+w_0016,marisco,seafood,word
+w_0017,ensalada,salad,word
+w_0018,sopa,soup,word
+w_0019,patata,potato,word
+w_0020,tomate,tomato,word
+w_0021,cebolla,onion,word
+w_0022,ajo,garlic,word
+w_0023,zanahoria,carrot,word
+w_0024,manzana,apple,word
+w_0025,platano,banana,word
+w_0026,naranja,orange,word
+w_0027,fresa,strawberry,word
+w_0028,uva,grape,word
+w_0029,agua,water,word
+w_0030,zumo,juice,word
+w_0031,cafe,coffee,word
+w_0032,te,tea,word
+w_0033,cerveza,beer,word
+w_0034,vino,wine,word
+w_0035,desayuno,breakfast,word
+w_0036,almuerzo,lunch,word
+w_0037,cena,dinner,word
+w_0038,postre,dessert,word
+w_0039,camarero,waiter,word
+w_0040,cuenta,bill,word
+w_0041,menu,menu,word
+w_0042,cuchara,spoon,word
+w_0043,tenedor,fork,word
+w_0044,cuchillo,knife,word
+w_0045,plato,plate,word
+w_0046,vaso,glass,word
+w_0047,taza,cup,word
+w_0048,botella,bottle,word
+w_0049,servilleta,napkin,word
+w_0050,restaurante,restaurant,word
+w_0051,quiero una mesa,I want a table,phrase
+w_0052,quiero el menu,I want the menu,phrase
+w_0053,quiero la cuenta,I want the bill,phrase
+w_0054,quiero agua sin gas,I want still water,phrase
+w_0055,quiero agua con gas,I want sparkling water,phrase
+w_0056,quiero una tapa,I want a tapa,phrase
+w_0057,quiero el plato del dia,I want the dish of the day,phrase
+w_0058,quiero un cafe solo,I want an espresso,phrase
+w_0059,quiero un cafe con leche,I want coffee with milk,phrase
+w_0060,quiero una cerveza fria,I want a cold beer,phrase
+w_0061,quiero una botella de vino,I want a bottle of wine,phrase
+w_0062,quiero pan extra,I want extra bread,phrase
+w_0063,quiero una ensalada,I want a salad,phrase
+w_0064,quiero una sopa,I want a soup,phrase
+w_0065,quiero un postre,I want a dessert,phrase
+w_0066,prefiero una mesa,I prefer a table,phrase
+w_0067,prefiero el menu,I prefer the menu,phrase
+w_0068,prefiero la cuenta,I prefer the bill,phrase
+w_0069,prefiero agua sin gas,I prefer still water,phrase
+w_0070,prefiero agua con gas,I prefer sparkling water,phrase
+w_0071,prefiero una tapa,I prefer a tapa,phrase
+w_0072,prefiero el plato del dia,I prefer the dish of the day,phrase
+w_0073,prefiero un cafe solo,I prefer an espresso,phrase
+w_0074,prefiero un cafe con leche,I prefer coffee with milk,phrase
+w_0075,prefiero una cerveza fria,I prefer a cold beer,phrase
+w_0076,prefiero una botella de vino,I prefer a bottle of wine,phrase
+w_0077,prefiero pan extra,I prefer extra bread,phrase
+w_0078,prefiero una ensalada,I prefer a salad,phrase
+w_0079,prefiero una sopa,I prefer a soup,phrase
+w_0080,prefiero un postre,I prefer a dessert,phrase
+w_0081,tomo una mesa,I take a table,phrase
+w_0082,tomo el menu,I take the menu,phrase
+w_0083,tomo la cuenta,I take the bill,phrase
+w_0084,tomo agua sin gas,I take still water,phrase
+w_0085,tomo agua con gas,I take sparkling water,phrase
+w_0086,tomo una tapa,I take a tapa,phrase
+w_0087,tomo el plato del dia,I take the dish of the day,phrase
+w_0088,tomo un cafe solo,I take an espresso,phrase
+w_0089,tomo un cafe con leche,I take coffee with milk,phrase
+w_0090,tomo una cerveza fria,I take a cold beer,phrase
+w_0091,tomo una botella de vino,I take a bottle of wine,phrase
+w_0092,tomo pan extra,I take extra bread,phrase
+w_0093,tomo una ensalada,I take a salad,phrase
+w_0094,tomo una sopa,I take a soup,phrase
+w_0095,tomo un postre,I take a dessert,phrase
+w_0096,pido una mesa,I order a table,phrase
+w_0097,pido el menu,I order the menu,phrase
+w_0098,pido la cuenta,I order the bill,phrase
+w_0099,pido agua sin gas,I order still water,phrase
+w_0100,pido agua con gas,I order sparkling water,phrase
+w_0101,pido una tapa,I order a tapa,phrase
+w_0102,pido el plato del dia,I order the dish of the day,phrase
+w_0103,pido un cafe solo,I order an espresso,phrase
+w_0104,pido un cafe con leche,I order coffee with milk,phrase
+w_0105,pido una cerveza fria,I order a cold beer,phrase
+w_0106,pido una botella de vino,I order a bottle of wine,phrase
+w_0107,pido pan extra,I order extra bread,phrase
+w_0108,pido una ensalada,I order a salad,phrase
+w_0109,pido una sopa,I order a soup,phrase
+w_0110,pido un postre,I order a dessert,phrase
+w_0111,como una mesa,I eat a table,phrase
+w_0112,como el menu,I eat the menu,phrase
+w_0113,como la cuenta,I eat the bill,phrase
+w_0114,como agua sin gas,I eat still water,phrase
+w_0115,como agua con gas,I eat sparkling water,phrase
+w_0116,como una tapa,I eat a tapa,phrase
+w_0117,como el plato del dia,I eat the dish of the day,phrase
+w_0118,como un cafe solo,I eat an espresso,phrase
+w_0119,como un cafe con leche,I eat coffee with milk,phrase
+w_0120,como una cerveza fria,I eat a cold beer,phrase
+w_0121,como una botella de vino,I eat a bottle of wine,phrase
+w_0122,como pan extra,I eat extra bread,phrase
+w_0123,como una ensalada,I eat a salad,phrase
+w_0124,como una sopa,I eat a soup,phrase
+w_0125,como un postre,I eat a dessert,phrase
+w_0126,bebo una mesa,I drink a table,phrase
+w_0127,bebo el menu,I drink the menu,phrase
+w_0128,bebo la cuenta,I drink the bill,phrase
+w_0129,bebo agua sin gas,I drink still water,phrase
+w_0130,bebo agua con gas,I drink sparkling water,phrase
+w_0131,bebo una tapa,I drink a tapa,phrase
+w_0132,bebo el plato del dia,I drink the dish of the day,phrase
+w_0133,bebo un cafe solo,I drink an espresso,phrase
+w_0134,bebo un cafe con leche,I drink coffee with milk,phrase
+w_0135,bebo una cerveza fria,I drink a cold beer,phrase
+w_0136,bebo una botella de vino,I drink a bottle of wine,phrase
+w_0137,bebo pan extra,I drink extra bread,phrase
+w_0138,bebo una ensalada,I drink a salad,phrase
+w_0139,bebo una sopa,I drink a soup,phrase
+w_0140,bebo un postre,I drink a dessert,phrase
+w_0141,necesito una mesa,I need a table,phrase
+w_0142,necesito el menu,I need the menu,phrase
+w_0143,necesito la cuenta,I need the bill,phrase
+w_0144,necesito agua sin gas,I need still water,phrase
+w_0145,necesito agua con gas,I need sparkling water,phrase
+w_0146,necesito una tapa,I need a tapa,phrase
+w_0147,necesito el plato del dia,I need the dish of the day,phrase
+w_0148,necesito un cafe solo,I need an espresso,phrase
+w_0149,necesito un cafe con leche,I need coffee with milk,phrase
+w_0150,necesito una cerveza fria,I need a cold beer,phrase
+w_0151,necesito una botella de vino,I need a bottle of wine,phrase
+w_0152,necesito pan extra,I need extra bread,phrase
+w_0153,necesito una ensalada,I need a salad,phrase
+w_0154,necesito una sopa,I need a soup,phrase
+w_0155,necesito un postre,I need a dessert,phrase
+w_0156,pruebo una mesa,I try a table,phrase
+w_0157,pruebo el menu,I try the menu,phrase
+w_0158,pruebo la cuenta,I try the bill,phrase
+w_0159,pruebo agua sin gas,I try still water,phrase
+w_0160,pruebo agua con gas,I try sparkling water,phrase
+w_0161,pruebo una tapa,I try a tapa,phrase
+w_0162,pruebo el plato del dia,I try the dish of the day,phrase
+w_0163,pruebo un cafe solo,I try an espresso,phrase
+w_0164,pruebo un cafe con leche,I try coffee with milk,phrase
+w_0165,pruebo una cerveza fria,I try a cold beer,phrase
+w_0166,pruebo una botella de vino,I try a bottle of wine,phrase
+w_0167,pruebo pan extra,I try extra bread,phrase
+w_0168,pruebo una ensalada,I try a salad,phrase
+w_0169,pruebo una sopa,I try a soup,phrase
+w_0170,pruebo un postre,I try a dessert,phrase
+w_0171,comparto una mesa,I share a table,phrase
+w_0172,comparto el menu,I share the menu,phrase
+w_0173,comparto la cuenta,I share the bill,phrase
+w_0174,comparto agua sin gas,I share still water,phrase
+w_0175,comparto agua con gas,I share sparkling water,phrase
+w_0176,comparto una tapa,I share a tapa,phrase
+w_0177,comparto el plato del dia,I share the dish of the day,phrase
+w_0178,comparto un cafe solo,I share an espresso,phrase
+w_0179,comparto un cafe con leche,I share coffee with milk,phrase
+w_0180,comparto una cerveza fria,I share a cold beer,phrase
+w_0181,comparto una botella de vino,I share a bottle of wine,phrase
+w_0182,comparto pan extra,I share extra bread,phrase
+w_0183,comparto una ensalada,I share a salad,phrase
+w_0184,comparto una sopa,I share a soup,phrase
+w_0185,comparto un postre,I share a dessert,phrase
+w_0186,cocino una mesa,I cook a table,phrase
+w_0187,cocino el menu,I cook the menu,phrase
+w_0188,cocino la cuenta,I cook the bill,phrase
+w_0189,cocino agua sin gas,I cook still water,phrase
+w_0190,cocino agua con gas,I cook sparkling water,phrase
+w_0191,cocino una tapa,I cook a tapa,phrase
+w_0192,cocino el plato del dia,I cook the dish of the day,phrase
+w_0193,cocino un cafe solo,I cook an espresso,phrase
+w_0194,cocino un cafe con leche,I cook coffee with milk,phrase
+w_0195,cocino una cerveza fria,I cook a cold beer,phrase
+w_0196,cocino una botella de vino,I cook a bottle of wine,phrase
+w_0197,cocino pan extra,I cook extra bread,phrase
+w_0198,cocino una ensalada,I cook a salad,phrase
+w_0199,cocino una sopa,I cook a soup,phrase
+w_0200,cocino un postre,I cook a dessert,phrase
