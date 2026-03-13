@@ -17,6 +17,13 @@ python3 -m http.server 4173
 
 Then open: `http://localhost:4173`
 
+## Hooks
+Install the repo-managed git hooks once:
+
+```bash
+./scripts/install-hooks
+```
+
 ## Data
 - Category index: `data/categories.csv`
 - Word lists: `data/*.csv`

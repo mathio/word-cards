@@ -86,7 +86,11 @@ function wireEvents() {
   });
 
   els.backHomeBtn.addEventListener('click', goHome);
-  els.exitSessionBtn.addEventListener('click', goHome);
+  els.exitSessionBtn.addEventListener('click', () => {
+    if (window.confirm('Exit the session? Progress in this session will be lost.')) {
+      goHome();
+    }
+  });
 }
 
 async function startSession() {
@@ -392,6 +396,8 @@ function updateQuizQuestion() {
   session.quizActiveWordId = session.quizQueue[0];
   const words = app.wordsByCategory.get(session.categoryId) || [];
   session.quizOptions = buildQuizOptions(words, session.quizActiveWordId, CONFIG.quizOptions);
+  els.quizFeedback.classList.remove('correct', 'wrong');
+  els.quizFeedback.textContent = '';
 }
 
 function renderQuizPhase() {
@@ -437,14 +443,21 @@ function submitQuizAnswer(selectedSpanish) {
     stat.lastSeenAt = Date.now();
     session.quizCorrect += 1;
     session.quizQueue.shift();
-    els.quizFeedback.textContent = 'Correct.';
+    els.quizFeedback.classList.remove('wrong');
+    els.quizFeedback.classList.add('correct');
+    els.quizFeedback.textContent = 'Correct';
   } else {
     stat.quizWrong += 1;
     stat.lastResult = 'wrong';
     stat.lastSeenAt = Date.now();
     session.quizWrong += 1;
     session.quizQueue.push(session.quizQueue.shift());
-    els.quizFeedback.textContent = `Not quite. Correct answer: ${currentWord.spanish}`;
+    els.quizFeedback.classList.remove('correct');
+    els.quizFeedback.classList.add('wrong');
+    els.quizFeedback.innerHTML = `
+      <span>Incorrect</span>
+      <span class="quiz-answer">${escapeHtml(currentWord.english)} = ${escapeHtml(currentWord.spanish)}</span>
+    `;
   }
 
   saveState(app.state);

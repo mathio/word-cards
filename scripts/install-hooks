@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+HOOK_DIR=".git/hooks"
+HOOK_FILE="$HOOK_DIR/pre-commit"
+
+if [ ! -d "$HOOK_DIR" ]; then
+  echo "No .git/hooks directory found. Are you in the repo root?" >&2
+  exit 1
+fi
+
+# Install/overwrite the pre-commit hook with the repo script.
+cat > "$HOOK_FILE" <<'HOOK'
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Delegate to the repo-managed hook.
+exec "$(git rev-parse --show-toplevel)/scripts/pre-commit"
+HOOK
+
+chmod +x "$HOOK_FILE"
+
+echo "Installed pre-commit hook to $HOOK_FILE"

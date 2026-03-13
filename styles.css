@@ -249,6 +249,28 @@ textarea {
   color: var(--ink-soft);
 }
 
+#quiz-feedback {
+  padding-top: 0.6rem;
+  text-align: center;
+  display: grid;
+  gap: 0.25rem;
+  min-height: 60px;
+}
+
+#quiz-feedback.correct {
+  color: var(--good);
+  font-size: 1.25em;
+}
+
+#quiz-feedback.wrong {
+  color: var(--bad);
+}
+
+.quiz-answer {
+  color: var(--ink);
+  font-size: 0.88rem;
+}
+
 .session-head {
   display: flex;
   justify-content: space-between;
@@ -404,6 +426,10 @@ textarea {
   min-height: 0;
 }
 
+.quiz-card #quiz-options {
+  flex: 1;
+}
+
 .prompt-label {
   font-size: 0.74rem;
   color: var(--ink-soft);
@@ -420,8 +446,10 @@ textarea {
 .quiz-options {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-auto-rows: 1fr;
   gap: 0.38rem;
   min-height: 0;
+  align-content: stretch;
 }
 
 .quiz-options button {
@@ -429,8 +457,8 @@ textarea {
   border: 1px solid #ffddb6;
   color: var(--ink);
   text-align: left;
-  font-size: 0.88rem;
-  padding: 0.45rem 0.5rem;
+  font-size: 1rem;
+  padding: 0.8rem 0.7rem;
 }
 
 .quiz-options button.correct {
@@ -473,8 +501,8 @@ textarea {
   }
 
   .quiz-options button {
-    font-size: 0.82rem;
-    padding: 0.4rem 0.45rem;
+    font-size: 0.92rem;
+    padding: 0.7rem 0.6rem;
   }
 
   .session-head {
