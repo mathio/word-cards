@@ -30,7 +30,7 @@ body {
 .app-shell {
   width: min(760px, 100%);
   margin: 0 auto;
-  padding: 1rem 0.85rem 3rem;
+  padding: 1rem 0.85rem 5.25rem;
   overflow: hidden;
 }
 
@@ -188,6 +188,22 @@ button:active {
 .controls {
   display: grid;
   gap: 0.7rem;
+}
+
+.start-dock {
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: min(760px, 100%);
+  padding: 0.85rem;
+  background: #fff;
+  z-index: 10;
+}
+
+.start-dock button {
+  width: 100%;
+  box-shadow: var(--shadow);
 }
 
 .code-tools {
