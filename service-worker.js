@@ -1,4 +1,4 @@
-const CACHE_NAME = 'wordcards-v1';
+const CACHE_NAME = 'wordcards-v2';
 
 const CORE_ASSETS = [
   './',
@@ -38,6 +38,33 @@ self.addEventListener('activate', (event) => {
 
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
+
+  const url = new URL(event.request.url);
+  const isNavigate = event.request.mode === 'navigate';
+  const isHtml = event.request.headers.get('accept')?.includes('text/html');
+  const isScript = event.request.destination === 'script';
+  const isStyle = event.request.destination === 'style';
+  const isManifest = event.request.destination === 'manifest';
+  const isData = url.pathname.endsWith('.csv');
+
+  const shouldNetworkFirst = isNavigate || isHtml || isScript || isStyle || isManifest || isData;
+
+  if (shouldNetworkFirst) {
+    event.respondWith(
+      fetch(event.request, { cache: 'no-store' })
+        .then((response) => {
+          if (response && response.status === 200) {
+            const copy = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          }
+          return response;
+        })
+        .catch(() =>
+          caches.match(event.request).then((cached) => cached || caches.match('./index.html'))
+        )
+    );
+    return;
+  }
 
   event.respondWith(
     caches.match(event.request).then((cached) => {
