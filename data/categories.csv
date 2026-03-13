@@ -1,4 +1,5 @@
 id,name,description,file,total_words
+prisma_unidad1,Prisma Comienza - Unidad 1,"Vocabulary from Prisma Comienza, Unidad 1.",unidad1.csv,243
 basics,Everyday Basics,Core daily words and useful phrases.,basics.csv,663
 food,Food and Dining,"Food, drinks, dining actions, and restaurant phrases.",food.csv,200
 travel,Travel and Transport,"Transport, places, directions, and travel phrases.",travel.csv,290

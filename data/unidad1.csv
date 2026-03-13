@@ -1,0 +1,244 @@
+id,spanish,english,type
+w_0001,hola,hello,word
+w_0002,adiós,goodbye,word
+w_0003,buenos días,good morning,word
+w_0004,buenas tardes,good afternoon,word
+w_0005,buenas noches,good evening/night,word
+w_0006,hasta luego,see you later,word
+w_0007,hasta mañana,see you tomorrow,word
+w_0008,¿qué tal?,how's it going?,phrase
+w_0009,bien,well,word
+w_0010,muy bien,very well,phrase
+w_0011,gracias,thank you,word
+w_0012,por favor,please,phrase
+w_0013,encantado/encantada,nice to meet you,word
+w_0014,mucho gusto,nice to meet you,phrase
+w_0015,me llamo…,my name is…,phrase
+w_0016,¿cómo te llamas?,what's your name?,phrase
+w_0017,¿cómo se llama?,what's your name? (formal),phrase
+w_0018,se llama…,his/her name is…,phrase
+w_0019,soy…,I am…,phrase
+w_0020,¿quién es…?,who is…?,phrase
+w_0021,este/esta es…,this is…,phrase
+w_0022,le presento a…,let me introduce…,phrase
+w_0023,y tú,and you?,phrase
+w_0024,¿de dónde es…?,where is… from?,phrase
+w_0025,soy de…,I am from…,phrase
+w_0026,vivo en…,I live in…,phrase
+w_0027,¿cómo se escribe tu nombre?,how do you spell your name?,phrase
+w_0028,"más despacio, por favor","more slowly, please",phrase
+w_0029,"¿puedes repetir, por favor?","can you repeat, please?",phrase
+w_0030,¿cómo se dice … en español?,how do you say … in Spanish?,phrase
+w_0031,se dice…,you say…,phrase
+w_0032,¿está bien así?,is it ok like this?,phrase
+w_0033,"sí, muy bien","yes, very well",phrase
+w_0034,cuaderno,notebook,word
+w_0035,señor,Mr.,word
+w_0036,señora,Mrs./Ms.,word
+w_0037,¿cómo estás?,how are you?,phrase
+w_0038,nombre,name,word
+w_0039,apellidos,surnames,word
+w_0040,nacionalidad,nationality,word
+w_0041,profesión,profession,word
+w_0042,edad,age,word
+w_0043,ciudad,city,word
+w_0044,país,country,word
+w_0045,origen,origin,word
+w_0046,estudios,studies,word
+w_0047,lengua,language,word
+w_0048,hablar,to speak,word
+w_0049,clase,class,word
+w_0050,compañero/compañera,classmate,word
+w_0051,estudiante,student,word
+w_0052,profesor/profesora,teacher,word
+w_0053,universidad,university,word
+w_0054,medicina,medicine (field),word
+w_0055,trabajo,work/job,word
+w_0056,trabajar,to work,word
+w_0057,asia,Asia,word
+w_0058,áfrica,Africa,word
+w_0059,europa,Europe,word
+w_0060,américa,America,word
+w_0061,oceanía,Oceania,word
+w_0062,china,China,word
+w_0063,egipto,Egypt,word
+w_0064,holanda,Holland/Netherlands,word
+w_0065,alemania,Germany,word
+w_0066,italia,Italy,word
+w_0067,argentina,Argentina,word
+w_0068,méxico,Mexico,word
+w_0069,colombia,Colombia,word
+w_0070,cuba,Cuba,word
+w_0071,australia,Australia,word
+w_0072,brasil,Brazil,word
+w_0073,sudáfrica,South Africa,word
+w_0074,suiza,Switzerland,word
+w_0075,suecia,Sweden,word
+w_0076,inglaterra,England,word
+w_0077,francia,France,word
+w_0078,japón,Japan,word
+w_0079,estados unidos,United States,word
+w_0080,bélgica,Belgium,word
+w_0081,italiano,Italian (m),word
+w_0082,italiana,Italian (f),word
+w_0083,mexicano,Mexican (m),word
+w_0084,mexicana,Mexican (f),word
+w_0085,sudafricano,South African (m),word
+w_0086,sudafricana,South African (f),word
+w_0087,brasileño,Brazilian (m),word
+w_0088,brasileña,Brazilian (f),word
+w_0089,suizo,Swiss (m),word
+w_0090,suiza,Swiss (f),word
+w_0091,sueco,Swedish (m),word
+w_0092,sueca,Swedish (f),word
+w_0093,egipcio,Egyptian (m),word
+w_0094,egipcia,Egyptian (f),word
+w_0095,inglés,English (m),word
+w_0096,inglesa,English (f),word
+w_0097,francés,French (m),word
+w_0098,francesa,French (f),word
+w_0099,japonés,Japanese (m),word
+w_0100,japonesa,Japanese (f),word
+w_0101,estadounidense,American (US),word
+w_0102,belga,Belgian,word
+w_0103,español,Spanish (m),word
+w_0104,española,Spanish (f),word
+w_0105,colombiano,Colombian (m),word
+w_0106,colombiana,Colombian (f),word
+w_0107,cubano,Cuban (m),word
+w_0108,cubana,Cuban (f),word
+w_0109,alemán,German (m),word
+w_0110,alemana,German (f),word
+w_0111,indio,Indian (m),word
+w_0112,india,Indian (f),word
+w_0113,reina,queen,word
+w_0114,actor,actor,word
+w_0115,actriz,actress,word
+w_0116,caballero,knight/gentleman,word
+w_0117,escritor,writer (m),word
+w_0118,escritora,writer (f),word
+w_0119,pintor,painter,word
+w_0120,político,politician (m),word
+w_0121,política,politician (f),word
+w_0122,músico,musician,word
+w_0123,filósofo,philosopher (m),word
+w_0124,filósofa,philosopher (f),word
+w_0125,ingeniero,engineer (m),word
+w_0126,ingeniera,engineer (f),word
+w_0127,mecánico,mechanic (m),word
+w_0128,mecánica,mechanic (f),word
+w_0129,astronauta,astronaut,word
+w_0130,cartero,mail carrier (m),word
+w_0131,cartera,mail carrier (f),word
+w_0132,informático,IT specialist (m),word
+w_0133,informática,IT specialist (f),word
+w_0134,abogado,lawyer (m),word
+w_0135,abogada,lawyer (f),word
+w_0136,economista,economist,word
+w_0137,administrativo,administrative worker (m),word
+w_0138,administrativa,administrative worker (f),word
+w_0139,dependiente,shop assistant,word
+w_0140,conductor,driver (m),word
+w_0141,conductora,driver (f),word
+w_0142,taxista,taxi driver,word
+w_0143,arquitecto,architect (m),word
+w_0144,arquitecta,architect (f),word
+w_0145,tener,to have,word
+w_0146,tengo hambre,I am hungry,phrase
+w_0147,tengo calor,I am hot,phrase
+w_0148,tengo sed,I am thirsty,phrase
+w_0149,tengo sueño,I am sleepy,phrase
+w_0150,tengo diez años,I am ten years old,phrase
+w_0151,tengo dos buenos amigos,I have two good friends,phrase
+w_0152,tengo un coche,I have a car,phrase
+w_0153,hambre,hunger,word
+w_0154,calor,heat,word
+w_0155,sed,thirst,word
+w_0156,sueño,sleepiness,word
+w_0157,años,years,word
+w_0158,amigo,friend (m),word
+w_0159,amiga,friend (f),word
+w_0160,coche,car,word
+w_0161,teléfono móvil,mobile phone,word
+w_0162,televisión en color,color television,word
+w_0163,frío,cold,word
+w_0164,hermana,sister,word
+w_0165,pequeña,small (f),word
+w_0166,gafas de sol,sunglasses,word
+w_0167,bolígrafo,pen,word
+w_0168,rojo,red,word
+w_0169,coche deportivo,sports car,word
+w_0170,cero,zero,word
+w_0171,uno,one,word
+w_0172,dos,two,word
+w_0173,tres,three,word
+w_0174,cuatro,four,word
+w_0175,cinco,five,word
+w_0176,seis,six,word
+w_0177,siete,seven,word
+w_0178,ocho,eight,word
+w_0179,nueve,nine,word
+w_0180,diez,ten,word
+w_0181,once,eleven,word
+w_0182,doce,twelve,word
+w_0183,trece,thirteen,word
+w_0184,catorce,fourteen,word
+w_0185,quince,fifteen,word
+w_0186,dieciséis,sixteen,word
+w_0187,diecisiete,seventeen,word
+w_0188,dieciocho,eighteen,word
+w_0189,diecinueve,nineteen,word
+w_0190,veinte,twenty,word
+w_0191,veintiuno,twenty-one,word
+w_0192,veintidós,twenty-two,word
+w_0193,veintitrés,twenty-three,word
+w_0194,veinticuatro,twenty-four,word
+w_0195,veinticinco,twenty-five,word
+w_0196,veintiséis,twenty-six,word
+w_0197,veintisiete,twenty-seven,word
+w_0198,veintiocho,twenty-eight,word
+w_0199,veintinueve,twenty-nine,word
+w_0200,treinta,thirty,word
+w_0201,treinta y uno,thirty-one,word
+w_0202,cuarenta y dos,forty-two,word
+w_0203,cincuenta y tres,fifty-three,word
+w_0204,sesenta y seis,sixty-six,word
+w_0205,setenta y cinco,seventy-five,word
+w_0206,ochenta y seis,eighty-six,word
+w_0207,noventa y siete,ninety-seven,word
+w_0208,cien,one hundred,word
+w_0209,ciento uno,one hundred one,word
+w_0210,más,plus,word
+w_0211,menos,minus,word
+w_0212,por,times,word
+w_0213,entre,divided by,word
+w_0214,igual,equals,word
+w_0215,a,letter a,word
+w_0216,be,letter b,word
+w_0217,ce,letter c,word
+w_0218,che,letter ch,word
+w_0219,de,letter d,word
+w_0220,e,letter e,word
+w_0221,efe,letter f,word
+w_0222,ge,letter g,word
+w_0223,hache,letter h,word
+w_0224,i,letter i,word
+w_0225,jota,letter j,word
+w_0226,ka,letter k,word
+w_0227,ele,letter l,word
+w_0228,elle,letter ll,word
+w_0229,eme,letter m,word
+w_0230,ene,letter n,word
+w_0231,eñe,letter ñ,word
+w_0232,o,letter o,word
+w_0233,pe,letter p,word
+w_0234,cu,letter q,word
+w_0235,erre,letter r,word
+w_0236,ese,letter s,word
+w_0237,te,letter t,word
+w_0238,u,letter u,word
+w_0239,uve,letter v,word
+w_0240,uve doble,letter w,word
+w_0241,equis,letter x,word
+w_0242,i griega,letter y,word
+w_0243,zeta,letter z,word
