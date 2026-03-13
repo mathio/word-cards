@@ -121,6 +121,8 @@ async function startSession() {
     quizQueue: [],
     quizActiveWordId: null,
     quizOptions: [],
+    quizLock: false,
+    lastQuizFeedback: { type: 'idle', text: 'Select an answer', html: false },
     firstAttemptByWord: {},
     quizCorrect: 0,
     quizWrong: 0,
@@ -396,8 +398,6 @@ function updateQuizQuestion() {
   session.quizActiveWordId = session.quizQueue[0];
   const words = app.wordsByCategory.get(session.categoryId) || [];
   session.quizOptions = buildQuizOptions(words, session.quizActiveWordId, CONFIG.quizOptions);
-  els.quizFeedback.classList.remove('correct', 'wrong');
-  els.quizFeedback.textContent = '';
 }
 
 function renderQuizPhase() {
@@ -418,14 +418,18 @@ function renderQuizPhase() {
     const btn = document.createElement('button');
     btn.type = 'button';
     btn.textContent = option;
+    btn.disabled = session.quizLock;
     btn.addEventListener('click', () => submitQuizAnswer(option));
     els.quizOptions.appendChild(btn);
   }
+
+  applyQuizFeedback(session.lastQuizFeedback);
 }
 
 function submitQuizAnswer(selectedSpanish) {
   const session = app.session;
-  if (!session || session.phase !== 'quiz') return;
+  if (!session || session.phase !== 'quiz' || session.quizLock) return;
+  session.quizLock = true;
 
   const words = app.wordsByCategory.get(session.categoryId) || [];
   const currentWord = words.find((word) => word.id === session.quizActiveWordId);
@@ -443,26 +447,50 @@ function submitQuizAnswer(selectedSpanish) {
     stat.lastSeenAt = Date.now();
     session.quizCorrect += 1;
     session.quizQueue.shift();
-    els.quizFeedback.classList.remove('wrong');
-    els.quizFeedback.classList.add('correct');
-    els.quizFeedback.textContent = 'Correct';
+    session.lastQuizFeedback = { type: 'correct', text: 'Correct', html: false };
   } else {
     stat.quizWrong += 1;
     stat.lastResult = 'wrong';
     stat.lastSeenAt = Date.now();
     session.quizWrong += 1;
     session.quizQueue.push(session.quizQueue.shift());
-    els.quizFeedback.classList.remove('correct');
-    els.quizFeedback.classList.add('wrong');
-    els.quizFeedback.innerHTML = `
-      <span>Incorrect</span>
-      <span class="quiz-answer">${escapeHtml(currentWord.english)} = ${escapeHtml(currentWord.spanish)}</span>
-    `;
+    session.lastQuizFeedback = {
+      type: 'wrong',
+      text: `
+        <span>Incorrect</span>
+        <span class="quiz-answer">${escapeHtml(currentWord.english)} = ${escapeHtml(currentWord.spanish)}</span>
+      `,
+      html: true,
+    };
   }
 
+  for (const btn of els.quizOptions.querySelectorAll('button')) {
+    if (isCorrect && btn.textContent === currentWord.spanish) {
+      btn.classList.add('correct');
+    } else if (!isCorrect && btn.textContent === selectedSpanish) {
+      btn.classList.add('wrong');
+    }
+  }
+
+  applyQuizFeedback(session.lastQuizFeedback);
+
   saveState(app.state);
-  updateQuizQuestion();
-  renderSession();
+  window.setTimeout(() => {
+    updateQuizQuestion();
+    session.quizLock = false;
+    renderSession();
+  }, 350);
+}
+
+function applyQuizFeedback(feedback) {
+  const data = feedback || { type: 'idle', text: 'Select an answer', html: false };
+  els.quizFeedback.classList.remove('correct', 'wrong', 'idle');
+  els.quizFeedback.classList.add(data.type);
+  if (data.html) {
+    els.quizFeedback.innerHTML = data.text;
+  } else {
+    els.quizFeedback.textContent = data.text;
+  }
 }
 
 function finishSession() {

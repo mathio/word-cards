@@ -266,6 +266,11 @@ textarea {
   color: var(--bad);
 }
 
+#quiz-feedback.idle {
+  color: var(--ink-soft);
+  font-size: 0.9em;
+}
+
 .quiz-answer {
   color: var(--ink);
   font-size: 0.88rem;

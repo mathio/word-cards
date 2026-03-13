@@ -1,4 +1,4 @@
-const CACHE_NAME = 'wordcards-v7';
+const CACHE_NAME = 'wordcards-v8';
 
 const CORE_ASSETS = [
   './',
