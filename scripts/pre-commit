@@ -11,13 +11,13 @@ fi
 git update-index --no-assume-unchanged "$SW_FILE" 2>/dev/null || true
 
 # Expected format: const CACHE_NAME = 'wordcards-vN';
-current=$(rg -n "^const CACHE_NAME = 'wordcards-v([0-9]+)';" -r '$1' "$SW_FILE" | head -n 1 || true)
+current=$(sed -nE "s/^const CACHE_NAME = 'wordcards-v([0-9]+)';/\\1/p" "$SW_FILE" | head -n 1 || true)
 if [ -z "$current" ]; then
   exit 0
 fi
 
 next=$((current + 1))
 
-sed -i '' "s/^const CACHE_NAME = 'wordcards-v[0-9]\+';/const CACHE_NAME = 'wordcards-v${next}';/" "$SW_FILE"
+sed -i '' -E "s/^const CACHE_NAME = 'wordcards-v[0-9]+';/const CACHE_NAME = 'wordcards-v${next}';/" "$SW_FILE"
 
 git add "$SW_FILE"
