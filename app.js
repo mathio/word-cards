@@ -234,9 +234,24 @@ function renderLearnPhase() {
   els.knowBtn.disabled = disabled;
   els.dontKnowBtn.disabled = disabled;
   els.startQuizManualBtn.disabled = disabled;
-  els.startQuizManualBtn.classList.toggle('hidden', !session.quizAvailable);
-  els.knowBtn.textContent = session.revealUnknown ? 'Next (Right)' : 'Know';
-  els.dontKnowBtn.textContent = session.revealUnknown ? 'Next (Left)' : "Don't Know";
+  const showNextOnly = session.revealUnknown;
+  els.startQuizManualBtn.classList.toggle('hidden', !session.quizAvailable || showNextOnly);
+  els.knowBtn.classList.toggle('hidden', false);
+  els.dontKnowBtn.classList.toggle('hidden', showNextOnly);
+  els.knowBtn.classList.toggle('neutral', showNextOnly);
+  els.knowBtn.textContent = showNextOnly ? 'Next' : 'Know';
+  els.dontKnowBtn.textContent = "Don't Know";
+
+  els.knowBtn.classList.toggle('highlight', false);
+  els.dontKnowBtn.classList.toggle('highlight', false);
+  if (app.drag.active && !showNextOnly) {
+    const threshold = 12;
+    if (app.drag.deltaX > threshold) {
+      els.knowBtn.classList.add('highlight');
+    } else if (app.drag.deltaX < -threshold) {
+      els.dontKnowBtn.classList.add('highlight');
+    }
+  }
 }
 
 function onCardPointerDown(evt) {
