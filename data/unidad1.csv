@@ -55,30 +55,30 @@ w_0053,universidad,university,word
 w_0054,medicina,medicine (field),word
 w_0055,trabajo,work/job,word
 w_0056,trabajar,to work,word
-w_0057,asia,Asia,word
-w_0058,áfrica,Africa,word
-w_0059,europa,Europe,word
-w_0060,américa,America,word
-w_0061,oceanía,Oceania,word
-w_0062,china,China,word
-w_0063,egipto,Egypt,word
-w_0064,holanda,Holland/Netherlands,word
-w_0065,alemania,Germany,word
-w_0066,italia,Italy,word
-w_0067,argentina,Argentina,word
-w_0068,méxico,Mexico,word
-w_0069,colombia,Colombia,word
-w_0070,cuba,Cuba,word
-w_0071,australia,Australia,word
-w_0072,brasil,Brazil,word
-w_0073,sudáfrica,South Africa,word
-w_0074,suiza,Switzerland,word
-w_0075,suecia,Sweden,word
-w_0076,inglaterra,England,word
-w_0077,francia,France,word
-w_0078,japón,Japan,word
-w_0079,estados unidos,United States,word
-w_0080,bélgica,Belgium,word
+w_0057,Asia,Asia,word
+w_0058,África,Africa,word
+w_0059,Europa,Europe,word
+w_0060,América,America,word
+w_0061,Oceanía,Oceania,word
+w_0062,China,China,word
+w_0063,Egipto,Egypt,word
+w_0064,Holanda,Holland/Netherlands,word
+w_0065,Alemania,Germany,word
+w_0066,Italia,Italy,word
+w_0067,Argentina,Argentina,word
+w_0068,México,Mexico,word
+w_0069,Colombia,Colombia,word
+w_0070,Cuba,Cuba,word
+w_0071,Australia,Australia,word
+w_0072,Brasil,Brazil,word
+w_0073,Sudáfrica,South Africa,word
+w_0074,Suiza,Switzerland,word
+w_0075,Suecia,Sweden,word
+w_0076,Inglaterra,England,word
+w_0077,Francia,France,word
+w_0078,Japón,Japan,word
+w_0079,Estados Unidos,United States,word
+w_0080,Bélgica,Belgium,word
 w_0081,italiano,Italian (m),word
 w_0082,italiana,Italian (f),word
 w_0083,mexicano,Mexican (m),word
@@ -88,7 +88,7 @@ w_0086,sudafricana,South African (f),word
 w_0087,brasileño,Brazilian (m),word
 w_0088,brasileña,Brazilian (f),word
 w_0089,suizo,Swiss (m),word
-w_0090,suiza,Swiss (f),word
+w_0090,Suiza,Swiss (f),word
 w_0091,sueco,Swedish (m),word
 w_0092,sueca,Swedish (f),word
 w_0093,egipcio,Egyptian (m),word
