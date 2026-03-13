@@ -201,6 +201,12 @@ button:active {
   width: 100%;
 }
 
+.code-tools button {
+  font-size: 0.7rem;
+  font-weight: 400;
+  padding: 0.55rem 0.7rem;
+}
+
 .import-box {
   display: grid;
   gap: 0.5rem;

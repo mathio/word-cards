@@ -62,7 +62,7 @@ async function init() {
   try {
     app.categories = await loadCategories();
     renderCategoryGrid();
-    setMessage('Ready. Choose a category and start your session.');
+    setMessage('');
   } catch (err) {
     setMessage(`Failed to load data files: ${err.message}`);
   }
