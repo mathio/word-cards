@@ -9,6 +9,9 @@ if [ ! -d "$HOOK_DIR" ]; then
   exit 1
 fi
 
+# Ensure git uses local .git/hooks rather than a global hooksPath.
+git config core.hooksPath .git/hooks
+
 # Install/overwrite the pre-commit hook with the repo script.
 cat > "$HOOK_FILE" <<'HOOK'
 #!/usr/bin/env bash
